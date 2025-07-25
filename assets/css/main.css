@@ -68,10 +68,16 @@ input[type="submit"]:hover {
     background-color: #0056b3;
 }
 
+
+
 .site-header {
-    background-color: #007bff;
-    color: white;
-    padding: 16px 0;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-color: #343a40;
+  color: white;
+  padding: 16px 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
 .site-header .container {
@@ -117,6 +123,9 @@ input[type="submit"]:hover {
     margin-bottom: 30px;
 }
 
+/* .services-cards{
+  background-color: #f0f3ff;
+} */
 .btn-primary {
     background-color: #007bff;
     color: white;
@@ -439,4 +448,8 @@ section {
 .blog-post-content p {
   color: #444;
   margin-bottom: 20px;
+}
+
+.main-nav a.active {
+  border-bottom: 2px solid white;
 }

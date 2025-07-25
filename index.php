@@ -10,19 +10,19 @@
 </head>
 <body>
 
-  <!-- Header -->
-<header class="site-header">
+
+<!-- <header class="site-header">
   <div class="container">
     <h1 class="logo">MAD Networks</h1>
 
-    <!-- Hamburger Icon -->
+
     <div class="menu-toggle" id="menu-toggle">
       <span></span>
       <span></span>
       <span></span>
     </div>
 
-    <!-- Navigation -->
+
     <nav class="main-nav" id="main-nav">
       <a href="index.php">Home</a>
       <a href="services.php">Services</a>
@@ -30,8 +30,8 @@
       <a href="contact.php">Contact</a>
     </nav>
   </div>
-</header>
-
+</header> -->
+<?php include 'includes/header.php'; ?>
 
   <!-- Hero Section -->
   <section class="hero-section fade-in">
@@ -84,12 +84,14 @@
     </div>
   </section>
 
-  <!-- Footer -->
-  <footer class="site-footer">
+
+  <!-- <footer class="site-footer">
     <div class="container">
       <p>&copy; <?= date('Y') ?> MAD Networks. All rights reserved.</p>
     </div>
-  </footer>
+  </footer> -->
+
+  <?php include 'includes/footer.php'; ?>
 
   <script>
   const menuToggle = document.getElementById('menu-toggle');

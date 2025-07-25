@@ -9,7 +9,7 @@
 </head>
 <body>
 
-  <?php include 'header.php'; ?>
+  <?php include 'includes/header.php'; ?>
 
   <section class="blog-post-header">
     <div class="container">
@@ -47,7 +47,7 @@
     </div>
   </section>
 
-  <?php include 'footer.php'; ?>
+  <?php include 'includes/footer.php'; ?>
 
 </body>
 </html>

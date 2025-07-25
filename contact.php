@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <?php include 'includes/header.php'; ?>
 <div class="container fade-in">
   <h2 class="slide-up">Contact Us</h2>
   <form action="process_contact.php" method="POST">
@@ -34,5 +35,6 @@
     <input type="submit" value="Submit">
   </form>
 </div>
+<?php include 'includes/footer.php'; ?>
 </body>
 </html>
