@@ -574,16 +574,16 @@ section {
 .hero-bg {
   background: url('../images/hero-bg.jpg') center center/cover no-repeat;
   position: relative;
-  padding: 120px 20px;
+  padding: 0px;
   color: #333;
 }
 
 .hero-overlay {
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85));
-  padding: 80px 20px;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.45));
+  padding: 100px 100px;
   text-align: center;
-  border-radius: 12px;
-  max-width: 900px;
+  /* border-radius: 12px; */
+  /* max-width: 900px; */
   margin: auto;
   box-shadow: 0 12px 30px rgba(0,0,0,0.05);
   position: relative;
@@ -594,12 +594,12 @@ section {
   font-size: 40px;
   font-weight: 700;
   margin-bottom: 20px;
-  color: #222;
+  color: #e9e5e5;
 }
 
 .hero-overlay p {
   font-size: 18px;
-  color: #555;
+  color: #e9e4e4;
   margin-bottom: 30px;
 }
 

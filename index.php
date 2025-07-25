@@ -47,8 +47,8 @@
   <div class="hero-overlay">
     <div class="container">
       <h2>Grow Your Business with Smart Digital Marketing</h2>
-      <p>Affordable and effective services for startups and small businesses.</p>
-      <a href="contact.php" class="btn-primary pulse-button">Get Started</a>
+      <p>Affordable and effective services for startups and growing businesses.</p>
+      <a href="contact.php" class="btn-primary">Get Started</a>
     </div>
   </div>
 </section>
