@@ -1,0 +1,38 @@
+<?php include 'includes/db.php'; ?>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Us</title>
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+</head>
+
+<body>
+<div class="container fade-in">
+  <h2 class="slide-up">Contact Us</h2>
+  <form action="process_contact.php" method="POST">
+    <label>Name:</label><br>
+    <input type="text" name="name" required><br><br>
+
+    <label>Email:</label><br>
+    <input type="email" name="email" required><br><br>
+
+    <label>Phone:</label><br>
+    <input type="text" name="phone"><br><br>
+
+    <label>Service Interested In:</label><br>
+    <select name="service_interest">
+      <option value="Starter Plan">Starter Plan</option>
+      <option value="Growth Plan">Growth Plan</option>
+      <option value="Pro Plan">Pro Plan</option>
+    </select><br><br>
+
+    <label>Message:</label><br>
+    <textarea name="message" rows="5" required></textarea><br><br>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+</body>
+</html>
