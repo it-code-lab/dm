@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Home | MAD Networks</title>
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="stylesheet" href="assets/css/responsive.css">
@@ -10,17 +11,27 @@
 <body>
 
   <!-- Header -->
-  <header class="site-header">
-    <div class="container">
-      <h1 class="logo">MAD Networks</h1>
-      <nav class="main-nav">
-        <a href="index.php">Home</a>
-        <a href="services.php">Services</a>
-        <a href="portfolio.php">Portfolio</a>
-        <a href="contact.php">Contact</a>
-      </nav>
+<header class="site-header">
+  <div class="container">
+    <h1 class="logo">MAD Networks</h1>
+
+    <!-- Hamburger Icon -->
+    <div class="menu-toggle" id="menu-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
     </div>
-  </header>
+
+    <!-- Navigation -->
+    <nav class="main-nav" id="main-nav">
+      <a href="index.php">Home</a>
+      <a href="services.php">Services</a>
+      <a href="portfolio.php">Portfolio</a>
+      <a href="contact.php">Contact</a>
+    </nav>
+  </div>
+</header>
+
 
   <!-- Hero Section -->
   <section class="hero-section fade-in">
@@ -79,6 +90,15 @@
       <p>&copy; <?= date('Y') ?> MAD Networks. All rights reserved.</p>
     </div>
   </footer>
+
+  <script>
+  const menuToggle = document.getElementById('menu-toggle');
+  const nav = document.getElementById('main-nav');
+
+  menuToggle.addEventListener('click', () => {
+    nav.classList.toggle('show');
+  });
+</script>
 
 </body>
 </html>
