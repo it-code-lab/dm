@@ -246,21 +246,27 @@ section {
   background: white;
   flex: 1 1 30%;
   padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
   text-align: center;
-  min-width: 60%
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.pricing-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
 }
 
 .pricing-card h3 {
-  margin-bottom: 10px;
-  color: #007bff;
+  font-size: 22px;
+  color: #3a3e42;
 }
 
 .pricing-card .price {
-  font-size: 22px;
+  font-size: 20px;
+  color: #333;
   font-weight: bold;
-  margin-bottom: 20px;
+  margin: 12px 0 20px;
 }
 
 .pricing-card ul {
@@ -268,13 +274,12 @@ section {
   padding: 0;
   text-align: left;
   margin-bottom: 20px;
-
 }
 
 .pricing-card ul li {
   margin-bottom: 10px;
-  position: relative;
   padding-left: 20px;
+  position: relative;
 }
 
 .pricing-card ul li::before {
@@ -284,10 +289,20 @@ section {
   color: #28a745;
 }
 
-.pricing-card.popular {
+/* .pricing-card.popular {
   border: 2px solid #007bff;
   transform: scale(1.02);
+} */
+
+.pricing-card.custom {
+  background: linear-gradient(145deg, #e8f1ff, #ffffff);
+  border: 1px dashed #007bff;
 }
+
+
+
+
+
 
 .portfolio-grid {
   display: flex;
@@ -582,8 +597,6 @@ section {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.45));
   padding: 100px 100px;
   text-align: center;
-  /* border-radius: 12px; */
-  /* max-width: 900px; */
   margin: auto;
   box-shadow: 0 12px 30px rgba(0,0,0,0.05);
   position: relative;
@@ -615,3 +628,9 @@ section {
 
 
 
+.tagline {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 15px;
+  font-style: italic;
+}

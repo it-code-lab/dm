@@ -32,7 +32,7 @@
         <a href="contact.php" class="btn-primary">Choose Plan</a>
       </div>
 
-      <div class="pricing-card popular">
+      <div class="pricing-card">
         <h3>Growth Plan</h3>
         <p class="price">₹10,000 / month</p>
         <ul>

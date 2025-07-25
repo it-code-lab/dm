@@ -15,8 +15,9 @@
     <!-- Navigation -->
     <nav class="main-nav" id="main-nav">
       <a href="index.php" class="<?= $current_page == 'index.php' ? 'active' : '' ?>">Home</a>
-      <a href="services.php" class="<?= $current_page == 'services.php' ? 'active' : '' ?>">Services</a>
-      <a href="portfolio.php" class="<?= $current_page == 'portfolio.php' ? 'active' : '' ?>">Portfolio</a>
+      <a href="pricing.php" class="<?= $current_page == 'pricing.php' ? 'active' : '' ?>">Pricing</a>
+
+
       <a href="blog.php" class="<?= $current_page == 'blog.php' ? 'active' : '' ?>">Blog</a>
       <a href="contact.php" class="<?= $current_page == 'contact.php' ? 'active' : '' ?>">Contact</a>
     </nav>
