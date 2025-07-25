@@ -24,7 +24,7 @@
 
   <script>
     // Toggle menu on mobile
-    const menuToggle = document.getElementById('menu-toggle');
+    let menuToggle = document.getElementById('menu-toggle');
     const nav = document.getElementById('main-nav');
 
     menuToggle.addEventListener('click', () => {

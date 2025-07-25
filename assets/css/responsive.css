@@ -42,6 +42,10 @@
         display: flex;
     }
 
+    .hero-overlay h2 {
+        font-size: 28px;
+    }
+
     .main-nav {
         display: none;
         position: absolute;
@@ -109,4 +113,25 @@
         width: 100%;
     }
 
+    .service-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .service-card img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .section-title {
+        font-size: 26px;
+    }
+
+    .section-subtitle {
+        font-size: 16px;
+    }
+
+    .btn-secondary {
+        font-size: 14px;
+        padding: 10px 16px;
+    }
 }
