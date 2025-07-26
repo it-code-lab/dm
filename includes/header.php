@@ -18,7 +18,7 @@
       <a href="pricing.php" class="<?= $current_page == 'pricing.php' ? 'active' : '' ?>">Pricing</a>
 
 
-      <a href="blog.php" class="<?= $current_page == 'blog.php' ? 'active' : '' ?>">Blog</a>
+      <a href="blog.php" class="<?= $current_page == 'blog.php' ? 'active' : '' ?>">Blogs</a>
       <a href="contact.php" class="<?= $current_page == 'contact.php' ? 'active' : '' ?>">Contact</a>
     </nav>
   </div>

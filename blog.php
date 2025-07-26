@@ -1,55 +1,66 @@
+<?php
+$blogDir = __DIR__ . '/blogs';
+$blogUrlBase = '/blogs'; // Adjust if your blogs folder is elsewhere
+
+$blogFiles = glob($blogDir . '/*.php');
+$blogFiles = array_merge($blogFiles, glob($blogDir . '/*.html'));
+
+function formatTitle($filename) {
+    $name = basename($filename, '.php');
+    $name = basename($name, '.html');
+    $name = str_replace(['-', '_'], ' ', $name);
+    return ucwords($name);
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Blog | MAD Networks</title>
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/animations.css">
+  <title>Our Blog Articles | CleanPix</title>
+  <?php include 'includes/head-main.html'; ?>
+  <style>
+
+    h1 {
+      color: #333;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li.blogs-item {
+      background: white;
+      margin: 10px 0;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    a {
+      text-decoration: none;
+      color: #0077cc;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .blogContainer{
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+  </style>
 </head>
 <body>
-
-  <?php include 'includes/header.php'; ?>
-
-  <section class="page-hero">
-    <div class="container">
-      <h2>Latest Articles & Insights</h2>
-      <p>Tips, trends, and case studies to help your business grow.</p>
-    </div>
-  </section>
-
-  <section class="blog-list-section container">
-
-    <div class="blog-post-card">
-      <img src="assets/images/blog-1.jpg" alt="Blog 1">
-      <div class="blog-content">
-        <h3><a href="blog-post.php?id=1">5 Reasons Your Business Needs a Digital Presence</a></h3>
-        <p>Still thinking about whether to invest in digital marketing? These 5 points will help you decide...</p>
-        <a href="blog-post.php?id=1" class="read-more">Read More →</a>
-      </div>
-    </div>
-
-    <div class="blog-post-card">
-      <img src="assets/images/blog-2.jpg" alt="Blog 2">
-      <div class="blog-content">
-        <h3><a href="blog-post.php?id=2">Instagram Ads vs. Google Ads: What’s Better for You?</a></h3>
-        <p>Understand the differences and when to use each platform for the best ROI.</p>
-        <a href="blog-post.php?id=2" class="read-more">Read More →</a>
-      </div>
-    </div>
-
-    <!-- Add more blog entries as needed -->
-
-  </section>
-
-  <section class="cta-section">
-    <div class="container">
-      <h3>Have a topic you'd like us to write about?</h3>
-      <a href="contact.php" class="btn-primary">Suggest a Topic</a>
-    </div>
-  </section>
-
-  <?php include 'includes/footer.php'; ?>
-
+    <?php include("includes/header.php"); ?>
+    <div class="blogContainer">
+  <h1>Explore Our Blog Articles</h1>
+  <ul>
+    <?php foreach ($blogFiles as $file): ?>
+      <li class="blogs-item">
+        <a href="<?= $blogUrlBase . '/' . basename($file) ?>">
+          <?= formatTitle($file) ?>
+        </a>
+      </li>
+    <?php endforeach; ?>
+  </ul>
+</div>
 </body>
 </html>

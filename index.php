@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Home | MAD Networks</title>
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/animations.css">
+  <title>Home | MAD Networks</title>  
+  <?php include 'includes/head-main.html'; ?>
 </head>
 <body>
 
@@ -48,7 +44,7 @@
     <div class="container">
       <h2>Grow Your Business with Smart Digital Marketing</h2>
       <p>Affordable and effective services for startups and growing businesses.</p>
-      <a href="contact.php" class="btn-primary">Get Started</a>
+      <a href="pricing.php" class="btn-primary">Get Started</a>
     </div>
   </div>
 </section>
@@ -146,6 +142,8 @@
   <section class="cta-section slide-up">
     <div class="container">
       <h3>Ready to Take Your Brand to the Next Level?</h3>
+      <a href="pricing.php" class="btn-primary">Select a Plan</a>
+      <a href="book-appointment.php" class="btn-primary">Book Free Consultation </a>
       <a href="contact.php" class="btn-primary">Contact Us</a>
     </div>
   </section>

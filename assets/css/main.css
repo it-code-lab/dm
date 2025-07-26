@@ -192,6 +192,11 @@ section {
   margin-bottom: 20px;
 }
 
+.cta-section .btn-primary {
+  width: 200px;
+  margin: 5px;
+}
+
 
 .site-footer {
   background-color: #f1f1f1;
@@ -219,7 +224,7 @@ section {
 
 .page-hero {
   text-align: center;
-  padding: 80px 20px 40px;
+  padding: 40px 20px 40px;
   background-color: #f8f9fc;
 }
 
@@ -240,6 +245,8 @@ section {
   gap: 20px;
   flex-wrap: wrap;
   margin-top: 40px;
+  max-width: 1000px;
+  
 }
 
 .pricing-card {
@@ -250,6 +257,7 @@ section {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+
 }
 
 .pricing-card:hover {
@@ -267,6 +275,10 @@ section {
   color: #333;
   font-weight: bold;
   margin: 12px 0 20px;
+}
+
+.pricing-card .btn-secondary {
+  width: 200px;
 }
 
 .pricing-card ul {
@@ -633,4 +645,14 @@ section {
   color: #777;
   margin-bottom: 15px;
   font-style: italic;
+}
+
+.contactus{
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  margin-bottom: 100px;
 }

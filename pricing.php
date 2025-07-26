@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
   <title>Services | MAD Networks</title>
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/animations.css">
+  <?php include 'includes/head-main.html'; ?>
 </head>
 <body>
 
@@ -65,7 +62,7 @@
       <li>Need help choosing?</li>
       <li>Book a free consultation</li>
     </ul>
-    <a href="book-appointment.php" class="btn-secondary">Book Free Call</a>
+    <a href="book-appointment.php" class="btn-secondary">Book Free Consulation</a>
   </div>
 
 </section>
@@ -74,7 +71,7 @@
   <section class="cta-section">
     <div class="container">
       <h3>Need help choosing the right plan?</h3>
-      <a href="contact.php" class="btn-primary">Book a Free Call</a>
+      <a href="book-appointment.php" class="btn-primary">Book Free Consultation</a>
     </div>
   </section>
 

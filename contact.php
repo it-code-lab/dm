@@ -3,14 +3,12 @@
 <html>
 <head>
   <title>Contact Us</title>
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/animations.css">
+  <?php include 'includes/head-main.html'; ?>
 </head>
 
 <body>
     <?php include 'includes/header.php'; ?>
-<div class="container fade-in">
+<div class="container contactus fade-in">
   <h2 class="slide-up">Contact Us</h2>
   <form action="process_contact.php" method="POST">
     <label>Name:</label><br>
