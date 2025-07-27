@@ -23,14 +23,15 @@
       <p class="price">$300/month</p>
       <div class="tagline">Best for: Freelancers & Solo Consultants</div>
       <ul>
-        <li>10 Social Posts (FB/IG)</li>
+        <li>10 Social Posts (FB/IG)/Month</li>
         <li>Basic On-Page SEO (Homepage)</li>
-        <li>2 Ad Campaigns (Meta/Google)</li>
+        <li>4 Meta Ad Campaigns/Month</li>
         <li>Monthly Summary Report</li>
       </ul>
       <details>
         <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
+          <li>2 Instagram Reels/Month</li>
           <li>Analytics Setup (GA4 & Tag Manager)</li>
           <li>Email support for basic queries</li>          
         </ul>
@@ -45,17 +46,19 @@
       <div class="tagline">Best for: Local Businesses & Startups</div>
       <ul>
         <li>15 Social Posts</li>
-        <li>4 Ad Campaigns (Meta/Google)</li>
+        <li>8 Meta Ad Campaigns/Month</li>
+        <li>4 Instagram Reels/Month</li>
         <li>Analytics Setup (GA4 & Tag Manager)</li>
-        <li>Local SEO</li>
       </ul>
       <details>
         <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
+          <li>4 Google Ad Campaigns/Month</li>
           <li>SMM Growth Strategy</li>
           <li>Email Marketing</li>
           <li>Website Design</li>
           <li>Analytics Setup (GA4 & Tag Manager)</li>
+          <li>Local SEO</li>
         </ul>
       </details>
       <a href="contact.php?service=advanced" class="btn-secondary">Select Plan</a>
@@ -68,13 +71,15 @@
       <div class="tagline">Best for: Aggressive Growth & Automation</div>
       <ul>
         <li>20 Social Posts (Meta/Google)</li>
-        <li>6 Ad Campaigns</li>
+        <li>20 Meta Ad Campaigns/Month</li>
         <li>Advanced SEO</li>
         <li>Website Design</li>
       </ul>
       <details>
         <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
+          <li>10 Google Ad Campaigns/Month</li>
+          <li>8 Instagram Reels/Month</li>
           <li>Website Optimization</li>
           <li>Analytics Setup (GA4 & Tag Manager)</li>
           <li>Monthly Reporting Dashboard</li>
@@ -140,11 +145,11 @@
     <!-- Ads -->
     <tr>
       <td data-label="Service">Google Ads (Campaign Setup)</td>
-      <td data-label="Basic">1</td><td data-label="Advanced">2</td><td data-label="Pro">3</td><td data-label="Add-On Price (USD)">$100/additional campaign</td>
+      <td data-label="Basic">-</td><td data-label="Advanced">4</td><td data-label="Pro">10</td><td data-label="Add-On Price (USD)">$50/additional campaign</td>
     </tr>
     <tr>
-      <td data-label="Service">Meta Ads (Instagram/Facebook)</td>
-      <td data-label="Basic">1</td><td data-label="Advanced">2</td><td data-label="Pro">3</td><td data-label="Add-On Price (USD)">$100/additional campaign</td>
+      <td data-label="Service">Meta Ads (Instagram/Facebook/LinkedIn)</td>
+      <td data-label="Basic">4</td><td data-label="Advanced">8</td><td data-label="Pro">20</td><td data-label="Add-On Price (USD)">$20/additional campaign</td>
     </tr>
     <tr>
       <td data-label="Service">Landing Page Design(1 Page, CRO-Focused)</td>
@@ -156,6 +161,12 @@
       <td data-label="Service">SMM: Content Calendar (Social Posts)</td>
       <td data-label="Basic">10</td><td data-label="Advanced">15</td><td data-label="Pro">20</td><td data-label="Add-On Price (USD)">$60/10 posts</td>
     </tr>
+
+    <tr>
+      <td data-label="Service">SMM: Instagram Reels</td>
+      <td data-label="Basic">2</td><td data-label="Advanced">4</td><td data-label="Pro">8</td><td data-label="Add-On Price (USD)">$10 /reel</td>
+    </tr>
+
     <tr>
       <td data-label="Service">SMM: Engagement & Growth Strategy</td>
       <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$99/month</td>

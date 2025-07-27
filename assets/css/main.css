@@ -692,3 +692,10 @@ section {
 .pricing-table tbody tr:hover {
   background-color: #f1faff;
 }
+
+.logoimage {
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
