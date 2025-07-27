@@ -657,6 +657,12 @@ section {
   margin-bottom: 100px;
 }
 
+.pricing-table-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 10px;
+}
+
 /* Base table style */
 .pricing-table {
   /* width: 100%; */

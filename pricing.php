@@ -11,7 +11,7 @@
 <section class="page-hero">
   <div class="container">
     <h2>Choose Your Plan</h2>
-    <p>Flexible options for businesses of every size. No hidden charges.</p>
+    <p>Flexible options for businesses of every size. </p>
   </div>
 </section>
 
@@ -23,19 +23,16 @@
       <p class="price">$300/month</p>
       <div class="tagline">Best for: Freelancers & Solo Consultants</div>
       <ul>
-        <li>8–10 Social Posts (FB/IG)</li>
-        <li>1 Meta Ad Campaign</li>
+        <li>10 Social Posts (FB/IG)</li>
         <li>Basic On-Page SEO (Homepage)</li>
+        <li>2 Ad Campaigns (Meta/Google)</li>
         <li>Monthly Summary Report</li>
       </ul>
       <details>
-        <summary style="cursor:pointer;color:#007BFF;">View Full Inclusions</summary>
+        <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
-          <li>Hashtag research & posting schedule</li>
-          <li>Ad creatives (1 static + 1 reel)</li>
-          <li>Meta Pixel setup (if access provided)</li>
-          <li>Basic keyword optimization (Homepage only)</li>
-          <li>Email/chat support for basic queries</li>
+          <li>Analytics Setup (GA4 & Tag Manager)</li>
+          <li>Email support for basic queries</li>          
         </ul>
       </details>
       <a href="contact.php?service=basic" class="btn-secondary">Select Plan</a>
@@ -47,19 +44,18 @@
       <p class="price">$500/month</p>
       <div class="tagline">Best for: Local Businesses & Startups</div>
       <ul>
-        <li>12–15 Social Posts</li>
-        <li>2 Ad Campaigns (Meta/Google)</li>
-        <li>SEO (3–5 Pages)</li>
-        <li>Monthly SEO & Ads Report</li>
+        <li>15 Social Posts</li>
+        <li>4 Ad Campaigns (Meta/Google)</li>
+        <li>Analytics Setup (GA4 & Tag Manager)</li>
+        <li>Local SEO</li>
       </ul>
       <details>
-        <summary style="cursor:pointer;color:#007BFF;">View Full Inclusions</summary>
+        <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
-          <li>Ad copywriting + audience targeting</li>
-          <li>Custom keyword list & page optimization</li>
-          <li>Local SEO setup (GMB, Maps integration)</li>
-          <li>Google Search Console integration</li>
-          <li>1 monthly strategy call</li>
+          <li>SMM Growth Strategy</li>
+          <li>Email Marketing</li>
+          <li>Website Design</li>
+          <li>Analytics Setup (GA4 & Tag Manager)</li>
         </ul>
       </details>
       <a href="contact.php?service=advanced" class="btn-secondary">Select Plan</a>
@@ -71,19 +67,17 @@
       <p class="price">$800/month</p>
       <div class="tagline">Best for: Aggressive Growth & Automation</div>
       <ul>
-        <li>20+ Social Posts (Multi-platform)</li>
-        <li>3–4 High-Performance Ad Campaigns</li>
-        <li>Advanced SEO (10+ Pages)</li>
-        <li>Lead Funnel & Landing Page</li>
+        <li>20 Social Posts (Meta/Google)</li>
+        <li>6 Ad Campaigns</li>
+        <li>Advanced SEO</li>
+        <li>Website Design</li>
       </ul>
       <details>
-        <summary style="cursor:pointer;color:#007BFF;">View Full Inclusions</summary>
+        <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
-          <li>ClickFunnels or Elementor setup</li>
-          <li>Retargeting Ads + Pixel optimization</li>
-          <li>Email marketing (basic automation)</li>
-          <li>Full SEO audit + technical fixes</li>
-          <li>Monthly strategy and growth sessions</li>
+          <li>Website Optimization</li>
+          <li>Analytics Setup (GA4 & Tag Manager)</li>
+          <li>Monthly Reporting Dashboard</li>
         </ul>
       </details>
       <a href="contact.php?service=pro" class="btn-secondary">Select Plan</a>
@@ -101,7 +95,7 @@
         <li>CRM/ERP/Tracking Setup</li>
       </ul>
       <details>
-        <summary style="cursor:pointer;color:#007BFF;">View Full Inclusions</summary>
+        <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
           <li>Pick & choose services by line-item pricing</li>
           <li>Custom dashboard & analytics views</li>
@@ -117,7 +111,7 @@
 
     <!-- Pricing Table -->
 
- 
+ <div class="pricing-table-container">
  <table class="pricing-table">
   <thead>
     <tr>
@@ -145,12 +139,12 @@
 
     <!-- Ads -->
     <tr>
-      <td data-label="Service">Google Ads (1 Campaign Setup)</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$120/campaign</td>
+      <td data-label="Service">Google Ads (Campaign Setup)</td>
+      <td data-label="Basic">1</td><td data-label="Advanced">2</td><td data-label="Pro">3</td><td data-label="Add-On Price (USD)">$100/additional campaign</td>
     </tr>
     <tr>
       <td data-label="Service">Meta Ads (Instagram/Facebook)</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$100/campaign</td>
+      <td data-label="Basic">1</td><td data-label="Advanced">2</td><td data-label="Pro">3</td><td data-label="Add-On Price (USD)">$100/additional campaign</td>
     </tr>
     <tr>
       <td data-label="Service">Landing Page Design(1 Page, CRO-Focused)</td>
@@ -198,6 +192,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
     <section class="cta-section">
     <div class="container">
