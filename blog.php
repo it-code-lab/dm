@@ -47,6 +47,10 @@ function formatTitle($filename) {
       margin: 0 auto;
       padding: 20px;
     }
+    .blogs-item:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+    }
   </style>
 </head>
 <body>
