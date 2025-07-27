@@ -134,4 +134,39 @@
         font-size: 14px;
         padding: 10px 16px;
     }
+
+      .pricing-table thead {
+    display: none;
+  }
+
+  .pricing-table,
+  .pricing-table tr,
+  .pricing-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .pricing-table tr {
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: #fff;
+  }
+
+  .pricing-table td {
+    text-align: right;
+    padding-left: 50%;
+    position: relative;
+  }
+
+  .pricing-table td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 15px;
+    top: 14px;
+    font-weight: bold;
+    text-align: left;
+    color: #333;
+  }
 }

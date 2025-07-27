@@ -657,3 +657,32 @@ section {
   margin-bottom: 100px;
 }
 
+/* Base table style */
+.pricing-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 30px 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pricing-table thead tr {
+  background-color: #1e88e5;
+  color: #ffffff;
+  text-align: left;
+}
+
+.pricing-table th,
+.pricing-table td {
+  padding: 14px 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.pricing-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.pricing-table tbody tr:hover {
+  background-color: #f1faff;
+}
