@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Media Marketing for Realtors: Tips to Win Clients | Mad Networks</title>
+    <title>Social Media Marketing for Realtors: Tips to Win Clients | VSN Networks</title>
     <meta name="description" content="Discover proven social media tips for realtors to attract clients on Instagram and Facebook. Build your brand and grow your real estate business.">
     <link rel="canonical" href="https://yourdomain.com/blogs/social-media-marketing-real-estate.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -143,7 +143,7 @@
     <h2>🎯 Boost Reach with Paid Social Ads</h2>
     <p>For faster growth, boost your best posts or run targeted campaigns to promote listings, home evaluations, or buyer guides. Ads can be especially effective when paired with organic content.</p>
 
-    <h2>🚀 Why Realtors Work with Mad Networks</h2>
+    <h2>🚀 Why Realtors Work with VSN Networks</h2>
     <ul>
         <li>✅ Done-for-you content creation tailored for real estate</li>
         <li>✅ Branded templates and growth strategy included</li>
@@ -167,6 +167,6 @@
     <a href="../book-appointment.php" class="cta-button">Schedule a Free Social Media Audit</a>
 </div>
 
-<p class="post-meta">Posted by <strong>Mad Networks</strong> | Social Media Marketing Experts for Realtors</p>
+<p class="post-meta">Posted by <strong>VSN Networks</strong> | Social Media Marketing Experts for Realtors</p>
 </body>
 </html>

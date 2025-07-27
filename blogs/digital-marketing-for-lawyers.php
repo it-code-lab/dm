@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Digital Marketing for Lawyers and Law Firms | Mad Networks</title>
+    <title>Digital Marketing for Lawyers and Law Firms | VSN Networks</title>
     <meta name="description" content="Discover how digital marketing helps lawyers and law firms attract more clients, build authority, and grow their practice in 2025.">
     <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-lawyers.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -107,7 +107,7 @@
 <?php include '../includes/blog_header.php'; ?>
 <div class="container">
     <h1>Digital Marketing for Lawyers and Law Firms in 2025</h1>
-    <p class="subheading">Attract high-value clients, build trust, and grow your legal practice online with Mad Networks.</p>
+    <p class="subheading">Attract high-value clients, build trust, and grow your legal practice online with VSN Networks.</p>
 
     <img src="/img/blogs/digital-marketing-lawyers.jpg" alt="Digital Marketing for Law Firms" class="featured-image">
 
@@ -123,7 +123,7 @@
         <li>💬 Missed opportunities for client engagement</li>
     </ul>
 
-    <h2>🚀 How Mad Networks Helps Law Firms Grow</h2>
+    <h2>🚀 How VSN Networks Helps Law Firms Grow</h2>
     <h3>1. Local SEO That Puts You on the Map</h3>
     <p>We optimize your law firm's online presence so you appear in local search results when people search for legal help in your area. This includes Google My Business, location-specific keywords, and reputation management.</p>
 
@@ -139,7 +139,7 @@
     <h3>5. Online Reputation Management</h3>
     <p>We help you collect positive reviews, respond to client feedback, and maintain a strong professional image across review platforms like Google, Avvo, and Yelp.</p>
 
-    <h2>💡 Why Mad Networks?</h2>
+    <h2>💡 Why VSN Networks?</h2>
     <ul>
         <li>✅ Legal marketing strategies tailored to your practice area</li>
         <li>✅ Transparent reporting and performance metrics</li>
@@ -160,6 +160,6 @@
     <h2>Need more legal clients? We can help.</h2>
     <a href="../book-appointment.php" class="cta-button">Book Free Consultation</a>
 </div>
-<p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing Experts for Legal Professionals</p>
+<p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing Experts for Legal Professionals</p>
 </body>
 </html>

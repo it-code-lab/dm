@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Build a Strong Online Presence for Your Brand | Mad Networks</title>
+    <title>How to Build a Strong Online Presence for Your Brand | VSN Networks</title>
     <meta name="description" content="Learn how to establish a powerful online presence that builds brand awareness, trust, and growth using proven digital marketing strategies.">
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
@@ -123,14 +123,14 @@
     <?php include '../includes/blog_header.php'; ?>
     <div class="container">
         <h1>How to Build a Strong Online Presence for Your Brand</h1>
-        <p class="subheading">Your online presence is your brand’s first impression. Let Mad Networks help you build a lasting one.</p>
+        <p class="subheading">Your online presence is your brand’s first impression. Let VSN Networks help you build a lasting one.</p>
 
         <img src="/img/blogs/online-brand-presence.jpg" alt="Build Strong Online Presence" class="featured-image">
 
         <p>In today’s digital-first world, a strong online presence is essential for gaining customer trust, increasing visibility, and driving growth. Whether you're a new startup or an established brand, showing up online — and showing up well — can be the difference between growing and fading away.</p>
 
         <h2>1. Create a Professional Website</h2>
-        <p>Your website is your digital storefront. It should be fast, mobile-friendly, visually appealing, and optimized for user experience and conversions. At Mad Networks, we craft websites that represent your brand and convert visitors into customers.</p>
+        <p>Your website is your digital storefront. It should be fast, mobile-friendly, visually appealing, and optimized for user experience and conversions. At VSN Networks, we craft websites that represent your brand and convert visitors into customers.</p>
 
         <h2>2. Optimize for Search (SEO)</h2>
         <p>Being present online means being found. SEO ensures your website ranks for the right keywords so people find you when they’re searching for what you offer — not your competitors.</p>
@@ -160,7 +160,7 @@
         <p>Use tools like Google Analytics and Meta Insights to track performance and continuously refine your strategy for growth.</p>
 
         <h2>🚀 You Don’t Have to Do It Alone</h2>
-        <p>Building your digital presence takes strategy, time, and consistency. Mad Networks handles the hard part — so you can focus on what you do best: running your business.</p>
+        <p>Building your digital presence takes strategy, time, and consistency. VSN Networks handles the hard part — so you can focus on what you do best: running your business.</p>
     </div>
 
     <div class="cta-box">
@@ -168,7 +168,7 @@
         <a href="../book-appointment.php" class="cta-button">Book Free Consultation</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing Experts</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing Experts</p>
 
 </body>
 </html>

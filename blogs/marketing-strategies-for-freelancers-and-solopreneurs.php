@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Marketing Strategies for Freelancers and Solopreneurs | Mad Networks</title>
+  <title>Marketing Strategies for Freelancers and Solopreneurs | VSN Networks</title>
   <meta name="description" content="Discover proven marketing strategies for freelancers and solopreneurs to build visibility, win clients, and grow income consistently.">
   <link rel="canonical" href="https://yourdomain.com/blogs/marketing-strategies-for-freelancers-and-solopreneurs.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -172,7 +172,7 @@
     <h2>✨ Final Thoughts</h2>
     <p>You don’t need a huge team or ad budget to market effectively. What you need is a clear voice, strategic actions, and consistency. Marketing as a freelancer isn’t optional — it’s your growth engine.</p>
 
-    <p><strong>Mad Networks</strong> helps freelancers and solopreneurs like you turn passion into profit. Let’s elevate your personal brand, build a lead-generating website, and fill your pipeline with ideal clients.</p>
+    <p><strong>VSN Networks</strong> helps freelancers and solopreneurs like you turn passion into profit. Let’s elevate your personal brand, build a lead-generating website, and fill your pipeline with ideal clients.</p>
   </div>
 
   <div class="cta-box">
@@ -181,6 +181,6 @@
     <a href="../book-appointment.php" class="cta-button">Schedule My Free Consultation</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Solutions for Independent Professionals</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Solutions for Independent Professionals</p>
 </body>
 </html>

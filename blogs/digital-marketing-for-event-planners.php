@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Digital Marketing for Event Planners and Agencies | Mad Networks</title>
+  <title>Digital Marketing for Event Planners and Agencies | VSN Networks</title>
   <meta name="description" content="Discover how event planners and agencies can use digital marketing to attract clients, increase bookings, and build a thriving brand presence.">
   <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-event-planners.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -164,7 +164,7 @@
       <li>More referrals via social visibility and online reviews</li>
     </ul>
 
-    <h2>🔗 Related Reads from Mad Networks</h2>
+    <h2>🔗 Related Reads from VSN Networks</h2>
     <ul>
       <li><a href="/blogs/social-media-strategies-for-creative-brands.php">Social Media for Creative Professionals</a></li>
       <li><a href="/blogs/seo-for-service-based-businesses.php">SEO Tips for Service-Based Businesses</a></li>
@@ -174,15 +174,15 @@
 
     <h2>📝 Final Thoughts</h2>
     <p>Digital marketing empowers event planners and agencies to put their creativity in front of the right people—consistently. By combining SEO, social, and paid campaigns, you can become the go-to planner in your niche and city.</p>
-    <p>At Mad Networks, we specialize in building high-performing digital strategies for event professionals. Let’s help you shine online as brightly as your events do in real life.</p>
+    <p>At VSN Networks, we specialize in building high-performing digital strategies for event professionals. Let’s help you shine online as brightly as your events do in real life.</p>
   </div>
 
   <div class="cta-box">
     <h2>Ready to Attract Premium Clients for Your Events?</h2>
-    <p>Mad Networks can help you stand out online and fill your calendar with high-quality bookings.</p>
+    <p>VSN Networks can help you stand out online and fill your calendar with high-quality bookings.</p>
     <a href="../book-appointment.php" class="cta-button">Book a Free Strategy Session</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing for Event Professionals</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing for Event Professionals</p>
 </body>
 </html>

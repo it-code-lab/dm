@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>How Restaurants Can Use Digital Marketing to Increase Bookings | Mad Networks</title>
+  <title>How Restaurants Can Use Digital Marketing to Increase Bookings | VSN Networks</title>
   <meta name="description" content="Learn how restaurants can use digital marketing to boost bookings, attract loyal customers, and grow profits in a competitive food industry.">
   <link rel="canonical" href="https://yourdomain.com/blogs/how-restaurants-use-digital-marketing.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -162,7 +162,7 @@
       <li>Stronger brand loyalty via Instagram and Facebook</li>
     </ul>
 
-    <h2>🔗 Related Reads from Mad Networks</h2>
+    <h2>🔗 Related Reads from VSN Networks</h2>
     <ul>
       <li><a href="/blogs/seo-for-local-businesses.php">SEO Tips for Local Businesses</a></li>
       <li><a href="/blogs/email-marketing-for-small-businesses.php">Email Marketing Tips for Small Businesses</a></li>
@@ -172,15 +172,15 @@
 
     <h2>👨‍🍳 Final Thoughts</h2>
     <p>Your food brings customers in once. Your digital marketing brings them in again and again.</p>
-    <p>In a world where dining decisions start online, your restaurant's digital presence is just as important as your kitchen. Let Mad Networks help you create an irresistible digital experience for your future guests.</p>
+    <p>In a world where dining decisions start online, your restaurant's digital presence is just as important as your kitchen. Let VSN Networks help you create an irresistible digital experience for your future guests.</p>
   </div>
 
   <div class="cta-box">
     <h2>Want to Turn Browsers into Bookings?</h2>
-    <p>Let Mad Networks craft a custom digital strategy for your restaurant—from SEO to social to ads that fill tables.</p>
+    <p>Let VSN Networks craft a custom digital strategy for your restaurant—from SEO to social to ads that fill tables.</p>
     <a href="../book-appointment.php" class="cta-button">Get a Free Restaurant Marketing Plan</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing for Restaurants</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing for Restaurants</p>
 </body>
 </html>

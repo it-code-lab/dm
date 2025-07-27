@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Using Google Analytics to Track Marketing ROI | Mad Networks</title>
+    <title>Using Google Analytics to Track Marketing ROI | VSN Networks</title>
     <meta name="description" content="Learn how to use Google Analytics to measure your marketing ROI, track conversions, and make smarter data-driven decisions.">
     <link rel="canonical" href="https://yourdomain.com/blogs/using-google-analytics-to-track-marketing-roi.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -173,7 +173,7 @@
         <h2>📈 Final Thoughts: Let the Data Do the Talking</h2>
         <p>You don't need to be a data scientist to use Google Analytics — but if you're not measuring ROI, you're missing the whole point of marketing. With just a few steps, you can start seeing what’s working, what’s wasting money, and how to scale smarter.</p>
 
-        <p><strong>Mad Networks</strong> helps business owners make sense of their data and turn metrics into growth — with custom dashboards, KPI tracking, and performance coaching.</p>
+        <p><strong>VSN Networks</strong> helps business owners make sense of their data and turn metrics into growth — with custom dashboards, KPI tracking, and performance coaching.</p>
     </div>
 
     <div class="cta-box">
@@ -182,7 +182,7 @@
         <a href="../book-appointment.php" class="cta-button">Schedule Free ROI Setup</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Data-Driven Digital Marketing Experts</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Data-Driven Digital Marketing Experts</p>
 
 </body>
 </html>

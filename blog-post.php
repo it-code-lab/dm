@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Blog Title | MAD Networks</title>
+  <title>Blog Title | VSN Networks</title>
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="stylesheet" href="assets/css/responsive.css">
   <link rel="stylesheet" href="assets/css/animations.css">
@@ -15,7 +15,7 @@
     <div class="container">
       <img src="assets/images/blog-1.jpg" alt="Blog Post" class="featured-image">
       <h1>5 Reasons Your Business Needs a Digital Presence</h1>
-      <p class="post-meta">Published on July 24, 2025 • by MAD Networks</p>
+      <p class="post-meta">Published on July 24, 2025 • by VSN Networks</p>
     </div>
   </section>
 

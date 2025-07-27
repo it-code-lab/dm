@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>How Lawyers Can Build Authority Using SEO and Content | Mad Networks</title>
+  <title>How Lawyers Can Build Authority Using SEO and Content | VSN Networks</title>
   <meta name="description" content="Want to build trust and attract clients? Learn how lawyers can use SEO and content marketing to become an authority in their field.">
   <link rel="canonical" href="https://yourdomain.com/blogs/how-lawyers-can-build-authority-using-seo-and-content.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -164,7 +164,7 @@
     <h2>💼 You Deserve to Be Found First</h2>
     <p>When someone searches for legal help in your area, will they find your competitor… or you? Authority isn’t just about how much experience you have — it’s about how visible and helpful you are online.</p>
 
-    <p><strong>Mad Networks</strong> helps lawyers like you build professional websites, write powerful SEO content, and get found on Google — so your expertise doesn’t go unnoticed.</p>
+    <p><strong>VSN Networks</strong> helps lawyers like you build professional websites, write powerful SEO content, and get found on Google — so your expertise doesn’t go unnoticed.</p>
   </div>
 
   <div class="cta-box">
@@ -173,6 +173,6 @@
     <a href="../book-appointment.php" class="cta-button">Schedule My Free Strategy Call</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing for Legal Experts</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing for Legal Experts</p>
 </body>
 </html>

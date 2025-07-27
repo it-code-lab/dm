@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Digital Marketing Tips for Nonprofits and NGOs | Mad Networks</title>
+  <title>Digital Marketing Tips for Nonprofits and NGOs | VSN Networks</title>
   <meta name="description" content="Discover the most effective digital marketing strategies for nonprofits and NGOs to raise awareness, drive donations, and grow impact online.">
   <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-nonprofits.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -162,7 +162,7 @@
     <h2>✨ Final Thoughts</h2>
     <p>With the right digital strategies, your nonprofit can amplify its mission, rally more supporters, and make an even greater difference. You don’t need a massive budget — just a focused approach and a powerful story.</p>
 
-    <p>At <strong>Mad Networks</strong>, we’re passionate about partnering with nonprofits and social impact organizations to build their digital voice. From campaign strategy to donor funnel design — we’ve got your back.</p>
+    <p>At <strong>VSN Networks</strong>, we’re passionate about partnering with nonprofits and social impact organizations to build their digital voice. From campaign strategy to donor funnel design — we’ve got your back.</p>
   </div>
 
   <div class="cta-box">
@@ -171,6 +171,6 @@
     <a href="../book-appointment.php" class="cta-button">Schedule Free Consultation</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Solutions for Social Good</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Solutions for Social Good</p>
 </body>
 </html>

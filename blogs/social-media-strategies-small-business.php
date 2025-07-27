@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Media Strategies That Actually Work for Small Businesses | Mad Networks</title>
+    <title>Social Media Strategies That Actually Work for Small Businesses | VSN Networks</title>
     <meta name="description" content="Discover proven social media strategies tailored for small businesses. Drive engagement, leads, and sales with actionable tips that actually work.">
     <link rel="canonical" href="https://yourdomain.com/blogs/social-media-strategies-small-business.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -106,7 +106,7 @@
     <?php include '../includes/blog_header.php'; ?>
     <div class="container">
         <h1>Social Media Strategies That Actually Work for Small Businesses</h1>
-        <p class="subheading">Struggling to get real results from Facebook, Instagram, or LinkedIn? These practical, proven strategies from Mad Networks will help you stand out, build trust, and grow your business online.</p>
+        <p class="subheading">Struggling to get real results from Facebook, Instagram, or LinkedIn? These practical, proven strategies from VSN Networks will help you stand out, build trust, and grow your business online.</p>
 
         <img src="/img/blogs/social-media-strategies.jpg" alt="Small business owner using social media for marketing" class="featured-image">
         <!-- Image Suggestion: Small business owner creating social media content or looking at engagement metrics -->
@@ -179,7 +179,7 @@
         <h2>👋 Final Thoughts: Small Businesses Win with Strategy</h2>
         <p>Social media doesn’t have to be overwhelming. With a smart, consistent strategy, even small businesses can stand out, build community, and drive real business results online.</p>
 
-        <p>At <strong>Mad Networks</strong>, we help small businesses turn social media into a growth engine — whether you need content creation, ad strategy, or full-service management.</p>
+        <p>At <strong>VSN Networks</strong>, we help small businesses turn social media into a growth engine — whether you need content creation, ad strategy, or full-service management.</p>
     </div>
 
     <div class="cta-box">
@@ -188,7 +188,7 @@
         <a href="../book-appointment.php" class="cta-button">Get Your Free Strategy Session</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing Experts for Small Business</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing Experts for Small Business</p>
 
 </body>
 </html>

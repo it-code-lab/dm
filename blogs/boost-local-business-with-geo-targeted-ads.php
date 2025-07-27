@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Boost Local Business with Geo-Targeted Ads | Mad Networks</title>
+  <title>Boost Local Business with Geo-Targeted Ads | VSN Networks</title>
   <meta name="description" content="Learn how geo-targeted ads can help local businesses attract nearby customers, increase foot traffic, and boost sales effectively.">
   <link rel="canonical" href="https://yourdomain.com/blogs/boost-local-business-with-geo-targeted-ads.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -170,7 +170,7 @@
     <h2>🌟 Final Takeaway</h2>
     <p>Geo-targeted ads put your business in front of the right people—right when they’re nearby and ready to act. Instead of shouting into the void, you're speaking directly to your neighbors.</p>
 
-    <p>Whether you're just starting with ads or want to level up your local marketing, geo-targeting should be a key part of your strategy. Let <strong>Mad Networks</strong> help you craft campaigns that drive real foot traffic and phone calls—right where they matter most.</p>
+    <p>Whether you're just starting with ads or want to level up your local marketing, geo-targeting should be a key part of your strategy. Let <strong>VSN Networks</strong> help you craft campaigns that drive real foot traffic and phone calls—right where they matter most.</p>
   </div>
 
   <div class="cta-box">
@@ -179,6 +179,6 @@
     <a href="../book-appointment.php" class="cta-button">Get Your Free Local Ad Plan</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Local Business Marketing Experts</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Local Business Marketing Experts</p>
 </body>
 </html>

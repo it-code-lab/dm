@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How Digital Marketing is Transforming the Healthcare Industry | Mad Networks</title>
+    <title>How Digital Marketing is Transforming the Healthcare Industry | VSN Networks</title>
     <meta name="description" content="Explore how digital marketing helps healthcare providers attract patients, build trust, and grow in 2025.">
     <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-healthcare.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -124,7 +124,7 @@
     </ul>
 
     <h2>🚀 How Digital Marketing Heals These Pain Points</h2>
-    <p>Mad Networks helps medical practices thrive by building visibility, trust, and patient engagement with digital tools.</p>
+    <p>VSN Networks helps medical practices thrive by building visibility, trust, and patient engagement with digital tools.</p>
 
     <h3>1. Local SEO for Clinics & Hospitals</h3>
     <p>We ensure your practice appears in Google Maps, “near me” searches, and healthcare directories by optimizing your Google Business Profile and citations.</p>
@@ -144,7 +144,7 @@
     <h2>🌍 Serving All Types of Providers</h2>
     <p>Whether you run a private practice, dental clinic, diagnostic center, or specialty hospital — our healthcare digital marketing plans are tailored to meet your goals and compliance needs.</p>
 
-    <h2>💡 Why Choose Mad Networks?</h2>
+    <h2>💡 Why Choose VSN Networks?</h2>
     <ul>
         <li>✅ HIPAA-conscious marketing for sensitive industries</li>
         <li>✅ Experience with clinics, private doctors, wellness brands</li>
@@ -165,6 +165,6 @@
     <h2>Want to attract more patients to your clinic?</h2>
     <a href="../book-appointment.php" class="cta-button">Book Free Consultation</a>
 </div>
-<p class="post-meta">Posted by <strong>Mad Networks</strong> | Healthcare Digital Marketing Experts</p>
+<p class="post-meta">Posted by <strong>VSN Networks</strong> | Healthcare Digital Marketing Experts</p>
 </body>
 </html>

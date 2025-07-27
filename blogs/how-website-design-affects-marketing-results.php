@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How Website Design Affects Your Marketing Results | Mad Networks</title>
+    <title>How Website Design Affects Your Marketing Results | VSN Networks</title>
     <meta name="description" content="Discover how smart website design influences SEO, conversions, bounce rates, and overall marketing performance.">
     <link rel="canonical" href="https://yourdomain.com/blogs/how-website-design-affects-marketing-results.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -174,7 +174,7 @@
         <h2>💡 Final Thoughts: Design Is More Than Just Looks</h2>
         <p>Your website is your 24/7 salesperson. If it’s not optimized to convert, every marketing dollar you spend loses efficiency. The good news? Even small design improvements can lead to measurable results.</p>
 
-        <p><strong>Mad Networks</strong> helps businesses like yours create beautiful, high-converting websites that turn visitors into leads and leads into customers — without sacrificing speed or brand consistency.</p>
+        <p><strong>VSN Networks</strong> helps businesses like yours create beautiful, high-converting websites that turn visitors into leads and leads into customers — without sacrificing speed or brand consistency.</p>
     </div>
 
     <div class="cta-box">
@@ -183,7 +183,7 @@
         <a href="../book-appointment.php" class="cta-button">Claim Your Free Website Audit</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Web Design & Conversion Experts</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Web Design & Conversion Experts</p>
 
 </body>
 </html>

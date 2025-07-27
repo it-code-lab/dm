@@ -7,8 +7,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Why Every Business Needs Digital Marketing in 2025 | Mad Networks</title>
-    <meta name="description" content="Discover why digital marketing is essential for every business in 2025 and how Mad Networks helps you grow through SEO, social media, ads, and more.">
+    <title>Why Every Business Needs Digital Marketing in 2025 | VSN Networks</title>
+    <meta name="description" content="Discover why digital marketing is essential for every business in 2025 and how VSN Networks helps you grow through SEO, social media, ads, and more.">
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {
@@ -123,7 +123,7 @@
     <?php include '../includes/blog_header.php'; ?>
     <div class="container">
         <h1>Why Every Business Needs Digital Marketing in 2025</h1>
-        <p class="subheading">Digital success is no longer optional — it's essential. Here's how Mad Networks can help your business thrive.</p>
+        <p class="subheading">Digital success is no longer optional — it's essential. Here's how VSN Networks can help your business thrive.</p>
 
         <img src="/img/blogs/digital-marketing-importance-2025.jpg" alt="Digital Marketing in 2025" class="featured-image">
 
@@ -141,7 +141,7 @@
         </ul>
 
         <h2>🚀 How Digital Marketing Solves These Problems</h2>
-        <p>Mad Networks offers a full suite of digital marketing services tailored to your business goals and audience. Here's how we help you grow:</p>
+        <p>VSN Networks offers a full suite of digital marketing services tailored to your business goals and audience. Here's how we help you grow:</p>
 
         <h3>1. Get Found Online (SEO)</h3>
         <p>We optimize your website so you rank higher in search engines like Google. This drives more organic traffic and qualified leads—without paying for ads.</p>
@@ -161,7 +161,7 @@
         <h2>🌍 It’s Not Just for Big Companies</h2>
         <p>Whether you're a freelancer, small business, local shop, clinic, or startup — digital marketing levels the playing field. You can now reach your dream clients just like the big players do, without spending a fortune.</p>
 
-        <h2>💡 Why Mad Networks?</h2>
+        <h2>💡 Why VSN Networks?</h2>
         <ul>
             <li>✅ Customized strategy, not a copy-paste approach</li>
             <li>✅ Transparent reporting and measurable results</li>
@@ -175,7 +175,7 @@
         <a href="../book-appointment.php" class="cta-button">Book Free Consultation</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing Experts </p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing Experts </p>
 
 </body>
 </html>

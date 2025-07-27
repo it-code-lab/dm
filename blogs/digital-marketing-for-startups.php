@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>How Startups Can Use Digital Marketing to Gain Early Traction | Mad Networks</title>
+  <title>How Startups Can Use Digital Marketing to Gain Early Traction | VSN Networks</title>
   <meta name="description" content="Learn the best digital marketing strategies for startups to build brand awareness, attract users, and gain early traction in 2025.">
   <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-startups.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -182,6 +182,6 @@
     <a href="../book-appointment.php" class="cta-button">Book a Free Strategy Call</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Growth Partner for Startups</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Growth Partner for Startups</p>
 </body>
 </html>

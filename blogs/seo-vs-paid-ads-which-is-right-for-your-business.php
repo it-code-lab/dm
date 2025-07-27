@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SEO vs. Paid Ads: What’s Right for Your Business? | Mad Networks</title>
+    <title>SEO vs. Paid Ads: What’s Right for Your Business? | VSN Networks</title>
     <meta name="description" content="Confused between SEO and paid ads? Learn the pros, cons, and when to use each to grow your business online.">
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
@@ -181,7 +181,7 @@
         </ul>
 
         <h2>💡 Smart Strategy: Combine Both</h2>
-        <p>The best results often come from a hybrid approach — use paid ads for quick wins and SEO for sustainable growth. At Mad Networks, we help you balance both strategies based on your goals and budget.</p>
+        <p>The best results often come from a hybrid approach — use paid ads for quick wins and SEO for sustainable growth. At VSN Networks, we help you balance both strategies based on your goals and budget.</p>
     </div>
 
     <div class="cta-box">
@@ -189,7 +189,7 @@
         <a href="../book-appointment.php" class="cta-button">Book Free Consultation</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing Experts</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing Experts</p>
 
 </body>
 </html>

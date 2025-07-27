@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marketing for Real Estate Agents: Facebook & Google Ads | Mad Networks</title>
+    <title>Marketing for Real Estate Agents: Facebook & Google Ads | VSN Networks</title>
     <meta name="description" content="Learn how Facebook and Google Ads can help real estate agents attract buyers and sellers in 2025. Proven strategies to grow your real estate business.">
     <link rel="canonical" href="https://yourdomain.com/blogs/real-estate-agent-facebook-google-ads.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -143,7 +143,7 @@
     <h2>💡 Pro Tip: Combine Ads with Email Drip Campaigns</h2>
     <p>Once someone clicks your ad and gives you their email, don't stop there. Use a sequence of automated emails to nurture them with buying/selling tips, success stories, and new listings.</p>
 
-    <h2>🚀 Why Real Estate Agents Choose Mad Networks</h2>
+    <h2>🚀 Why Real Estate Agents Choose VSN Networks</h2>
     <ul>
         <li>✅ Proven track record of ad success for real estate clients</li>
         <li>✅ Fully managed ad campaigns across Meta & Google</li>
@@ -167,6 +167,6 @@
     <a href="../book-appointment.php" class="cta-button">Get a Free Ad Strategy Session</a>
 </div>
 
-<p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Advertising Experts for Real Estate Agents</p>
+<p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Advertising Experts for Real Estate Agents</p>
 </body>
 </html>

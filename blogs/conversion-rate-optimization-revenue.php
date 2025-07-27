@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>How Conversion Rate Optimization Can Increase Your Revenue | Mad Networks</title>
+  <title>How Conversion Rate Optimization Can Increase Your Revenue | VSN Networks</title>
   <meta name="description" content="Learn how CRO (Conversion Rate Optimization) improves your website’s performance, increases sales, and maximizes ROI without increasing ad spend.">
   <link rel="canonical" href="https://yourdomain.com/blogs/conversion-rate-optimization-revenue.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -139,7 +139,7 @@
   <h3>5. Mobile Optimization</h3>
   <p>With most users browsing on smartphones, your mobile UX must be flawless. CRO ensures frictionless paths to conversion on all devices.</p>
 
-  <h2>🛠️ Our CRO Process at Mad Networks</h2>
+  <h2>🛠️ Our CRO Process at VSN Networks</h2>
   <ul>
     <li>🔍 Conversion audit of key pages and funnels</li>
     <li>📊 User behavior analysis using heatmaps and session recordings</li>
@@ -170,6 +170,6 @@
   <h2>Want more conversions from your current traffic?</h2>
   <a href="../book-appointment.php" class="cta-button">Request a CRO Audit</a>
 </div>
-<p class="post-meta">Posted by <strong>Mad Networks</strong> | Experts in Conversion-Focused Marketing</p>
+<p class="post-meta">Posted by <strong>VSN Networks</strong> | Experts in Conversion-Focused Marketing</p>
 </body>
 </html>

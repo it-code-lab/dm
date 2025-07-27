@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Promoting Local Events with Digital Marketing | Mad Networks</title>
+  <title>Promoting Local Events with Digital Marketing | VSN Networks</title>
   <meta name="description" content="Learn effective digital marketing strategies to promote local events, increase attendance, and create buzz in your community.">
   <link rel="canonical" href="https://yourdomain.com/blogs/promoting-local-events-with-digital-marketing.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -175,7 +175,7 @@
     <h2>🎉 Wrap-Up</h2>
     <p>When planned right, your local event can create buzz, boost brand awareness, and foster lasting community engagement. With strategic digital marketing, you don’t just fill the seats — you create an experience people remember and talk about.</p>
 
-    <p><strong>Mad Networks</strong> helps local event organizers plan and execute powerful digital promotions that deliver real-world results. From content to ads to analytics, we’ve got your back.</p>
+    <p><strong>VSN Networks</strong> helps local event organizers plan and execute powerful digital promotions that deliver real-world results. From content to ads to analytics, we’ve got your back.</p>
   </div>
 
   <div class="cta-box">
@@ -184,6 +184,6 @@
     <a href="../book-appointment.php" class="cta-button">Book Your Free Strategy Call</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Promotions for Local Impact</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Promotions for Local Impact</p>
 </body>
 </html>

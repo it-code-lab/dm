@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Why Your Business Needs a Blog: Benefits of Content Marketing | Mad Networks</title>
+  <title>Why Your Business Needs a Blog: Benefits of Content Marketing | VSN Networks</title>
   <meta name="description" content="Discover how blogging helps boost SEO, build authority, and attract customers. Learn the top benefits of content marketing for businesses in 2025.">
   <link rel="canonical" href="https://yourdomain.com/blogs/why-your-business-needs-a-blog.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -183,6 +183,6 @@
     <a href="../book-appointment.php" class="cta-button">Book Free Content Strategy Call</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Content Marketing Experts for Growth-Focused Brands</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Content Marketing Experts for Growth-Focused Brands</p>
 </body>
 </html>

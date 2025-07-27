@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Why Every Author Needs a Website and Email List | Mad Networks</title>
+    <title>Why Every Author Needs a Website and Email List | VSN Networks</title>
     <meta name="description" content="Discover why every author needs a website and email list to build a lasting career, connect with readers, and control their success.">
     <link rel="canonical" href="https://yourdomain.com/blogs/why-every-author-needs-website-and-email-list.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -174,7 +174,7 @@
         <h2>💬 Final Thoughts: Build Your Author Career on Your Own Terms</h2>
         <p>Don’t let your visibility, fanbase, or sales depend on someone else’s platform. Your website and email list are the foundation for a long-lasting writing career — one that grows with every book you release.</p>
 
-        <p><strong>Mad Networks</strong> helps authors create stunning websites and automated email systems — so you can focus on writing while we handle your digital growth.</p>
+        <p><strong>VSN Networks</strong> helps authors create stunning websites and automated email systems — so you can focus on writing while we handle your digital growth.</p>
     </div>
 
     <div class="cta-box">
@@ -183,7 +183,7 @@
         <a href="../book-appointment.php" class="cta-button">Get Free Author Platform Plan</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Helping Authors Grow Online</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Helping Authors Grow Online</p>
 
 </body>
 </html>

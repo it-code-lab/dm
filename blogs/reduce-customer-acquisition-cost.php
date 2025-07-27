@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>How to Reduce Customer Acquisition Cost (CAC) with Smarter Marketing | Mad Networks</title>
+  <title>How to Reduce Customer Acquisition Cost (CAC) with Smarter Marketing | VSN Networks</title>
   <meta name="description" content="Learn proven strategies to lower your customer acquisition cost (CAC) while maximizing conversions and marketing ROI in 2025.">
   <link rel="canonical" href="https://yourdomain.com/blogs/reduce-customer-acquisition-cost.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -180,6 +180,6 @@
     <a href="../book-appointment.php" class="cta-button">Book Free Strategy Session</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Performance Marketing Experts for Growth-Focused Brands</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Performance Marketing Experts for Growth-Focused Brands</p>
 </body>
 </html>

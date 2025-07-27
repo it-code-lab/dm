@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>When Should You Invest in Google Ads vs. SEO? | Mad Networks</title>
+  <title>When Should You Invest in Google Ads vs. SEO? | VSN Networks</title>
   <meta name="description" content="Explore the pros and cons of Google Ads and SEO. Learn when to use each strategy and how to combine them for better results.">
   <link rel="canonical" href="https://yourdomain.com/blogs/google-ads-vs-seo.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -173,7 +173,7 @@
     </tbody>
   </table>
 
-  <h2>🤝 How Mad Networks Helps You Decide</h2>
+  <h2>🤝 How VSN Networks Helps You Decide</h2>
   <ul>
     <li>✅ Keyword research and ROI forecasting</li>
     <li>✅ Performance tracking for both SEO & PPC</li>
@@ -195,6 +195,6 @@
   <h2>Still confused between Ads and SEO? Let’s talk.</h2>
   <a href="../book-appointment.php" class="cta-button">Book Free Strategy Session</a>
 </div>
-<p class="post-meta">Posted by <strong>Mad Networks</strong> | Experts in SEO & Google Ads Campaigns</p>
+<p class="post-meta">Posted by <strong>VSN Networks</strong> | Experts in SEO & Google Ads Campaigns</p>
 </body>
 </html>

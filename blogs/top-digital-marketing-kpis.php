@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Top Digital Marketing KPIs Every Business Should Track | Mad Networks</title>
+  <title>Top Digital Marketing KPIs Every Business Should Track | VSN Networks</title>
   <meta name="description" content="Learn the most important digital marketing KPIs to track in 2025 to measure ROI, improve performance, and scale your campaigns effectively.">
   <link rel="canonical" href="https://yourdomain.com/blogs/top-digital-marketing-kpis.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -185,6 +185,6 @@
     <a href="../book-appointment.php" class="cta-button">Get a Free KPI Audit</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Performance-Driven Digital Marketing Experts</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Performance-Driven Digital Marketing Experts</p>
 </body>
 </html>

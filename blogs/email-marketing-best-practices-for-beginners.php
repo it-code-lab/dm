@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Email Marketing That Converts: Best Practices for Beginners | Mad Networks</title>
+    <title>Email Marketing That Converts: Best Practices for Beginners | VSN Networks</title>
     <meta name="description" content="Get started with email marketing that drives real results. Discover beginner-friendly best practices to increase opens, clicks, and sales.">
     <link rel="canonical" href="https://yourdomain.com/blogs/email-marketing-best-practices-for-beginners.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -184,7 +184,7 @@
         <h2>💬 Final Thoughts: Keep It Human, Helpful & Honest</h2>
         <p>Email isn’t just a tool — it’s a conversation. Whether you're sending to 10 people or 10,000, treat every email as a relationship builder. Over time, your email list can become your most valuable marketing asset.</p>
 
-        <p>At <strong>Mad Networks</strong>, we help small businesses launch, grow, and automate email strategies that convert — without spamming or guessing.</p>
+        <p>At <strong>VSN Networks</strong>, we help small businesses launch, grow, and automate email strategies that convert — without spamming or guessing.</p>
     </div>
 
     <div class="cta-box">
@@ -193,7 +193,7 @@
         <a href="../book-appointment.php" class="cta-button">Get Free Email Marketing Help</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Trusted Experts in Email & Marketing Automation</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Trusted Experts in Email & Marketing Automation</p>
 
 </body>
 </html>

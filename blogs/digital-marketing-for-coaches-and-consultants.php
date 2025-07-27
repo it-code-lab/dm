@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Digital Marketing for Coaches and Consultants | Mad Networks</title>
+  <title>Digital Marketing for Coaches and Consultants | VSN Networks</title>
   <meta name="description" content="Discover powerful digital marketing strategies for coaches and consultants to build authority, attract clients, and grow your practice online.">
   <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-coaches-and-consultants.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -158,7 +158,7 @@
     </ul>
     <p>Optimized blogs build trust, attract organic traffic, and boost your authority over time.</p>
 
-    <h2>🔗 Related Resources from Mad Networks</h2>
+    <h2>🔗 Related Resources from VSN Networks</h2>
     <ul>
       <li><a href="/blogs/content-marketing-for-experts.php">Content Marketing for Experts and Coaches</a></li>
       <li><a href="/blogs/lead-generation-strategies.php">Lead Generation Strategies That Work in 2025</a></li>
@@ -169,7 +169,7 @@
     <h2>📌 Final Thoughts</h2>
     <p>Coaching and consulting are deeply personal professions—but to thrive, your digital presence must work 24/7 on your behalf. The right strategy can position you as the go-to expert in your niche, helping you attract clients who are already primed to say yes.</p>
 
-    <p>Whether you’re just starting or scaling, <strong>Mad Networks</strong> can build a custom digital strategy that aligns with your voice, mission, and goals.</p>
+    <p>Whether you’re just starting or scaling, <strong>VSN Networks</strong> can build a custom digital strategy that aligns with your voice, mission, and goals.</p>
   </div>
 
   <div class="cta-box">
@@ -178,6 +178,6 @@
     <a href="../book-appointment.php" class="cta-button">Schedule My Free Strategy Call</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing for Coaches & Consultants</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing for Coaches & Consultants</p>
 </body>
 </html>

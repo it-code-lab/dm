@@ -659,9 +659,9 @@ section {
 
 /* Base table style */
 .pricing-table {
-  width: 100%;
+  /* width: 100%; */
   border-collapse: collapse;
-  margin: 30px 0;
+  margin: 30px auto;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 16px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);

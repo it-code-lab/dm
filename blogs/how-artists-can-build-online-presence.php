@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>How Artists and Creatives Can Build an Online Presence | Mad Networks</title>
+  <title>How Artists and Creatives Can Build an Online Presence | VSN Networks</title>
   <meta name="description" content="Discover how artists and creatives can build an online presence to showcase work, connect with audiences, and grow their brand with digital marketing.">
   <link rel="canonical" href="https://yourdomain.com/blogs/how-artists-can-build-online-presence.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -161,7 +161,7 @@
     <h2>✨ Final Thoughts</h2>
     <p>You don’t need to be a marketing expert to shine online — just a few consistent, strategic actions can grow your reach and impact as a creative. Be authentic. Be consistent. And remember: your art deserves to be seen.</p>
 
-    <p><strong>Mad Networks</strong> partners with artists and creators to build custom digital strategies that reflect their unique voice and help grow their audience. From portfolio design to social strategy, we’re here to help you get noticed.</p>
+    <p><strong>VSN Networks</strong> partners with artists and creators to build custom digital strategies that reflect their unique voice and help grow their audience. From portfolio design to social strategy, we’re here to help you get noticed.</p>
   </div>
 
   <div class="cta-box">
@@ -170,6 +170,6 @@
     <a href="../book-appointment.php" class="cta-button">Book Your Free Strategy Call</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Helping Artists Thrive Digitally</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Helping Artists Thrive Digitally</p>
 </body>
 </html>

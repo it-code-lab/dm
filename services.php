@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Services | MAD Networks</title>
+  <title>Services | VSN Networks</title>
   <?php include 'includes/head-main.html'; ?>
 </head>
 <body>

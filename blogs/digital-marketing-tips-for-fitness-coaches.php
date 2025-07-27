@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Digital Marketing Tips for Fitness Coaches and Personal Trainers | Mad Networks</title>
+  <title>Digital Marketing Tips for Fitness Coaches and Personal Trainers | VSN Networks</title>
   <meta name="description" content="Want to grow your fitness business online? Discover powerful digital marketing tips tailored for personal trainers and fitness coaches.">
   <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-tips-for-fitness-coaches.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -178,7 +178,7 @@
     <h2>🚀 Final Thoughts: Grow Strong Online</h2>
     <p>Becoming a top coach isn’t just about your reps — it’s about your reach. With the right digital marketing strategy, you can attract loyal clients, stand out in a crowded space, and make a bigger impact.</p>
 
-    <p><strong>Mad Networks</strong> specializes in helping fitness professionals build stunning websites, grow audiences, and convert followers into paying clients. Let’s build your fitness brand online.</p>
+    <p><strong>VSN Networks</strong> specializes in helping fitness professionals build stunning websites, grow audiences, and convert followers into paying clients. Let’s build your fitness brand online.</p>
   </div>
 
   <div class="cta-box">
@@ -187,6 +187,6 @@
     <a href="../book-appointment.php" class="cta-button">Book My Free Fitness Marketing Call</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Helping Fitness Brands Go Digital</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Helping Fitness Brands Go Digital</p>
 </body>
 </html>

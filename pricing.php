@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Services | MAD Networks</title>
+  <title>Services | VSN Networks</title>
   <?php include 'includes/head-main.html'; ?>
 </head>
 <body>
@@ -20,7 +20,7 @@
     <!-- Basic Plan -->
     <div class="pricing-card">
       <h3>Basic Plan</h3>
-      <p class="price">₹4,999/month</p>
+      <p class="price">$300/month</p>
       <div class="tagline">Best for: Freelancers & Solo Consultants</div>
       <ul>
         <li>8–10 Social Posts (FB/IG)</li>
@@ -44,7 +44,7 @@
     <!-- Advanced Plan -->
     <div class="pricing-card">
       <h3>Advanced Plan</h3>
-      <p class="price">₹9,999/month</p>
+      <p class="price">$500/month</p>
       <div class="tagline">Best for: Local Businesses & Startups</div>
       <ul>
         <li>12–15 Social Posts</li>
@@ -68,7 +68,7 @@
     <!-- Pro Plan -->
     <div class="pricing-card">
       <h3>Pro Plan</h3>
-      <p class="price">₹14,999/month</p>
+      <p class="price">$800/month</p>
       <div class="tagline">Best for: Aggressive Growth & Automation</div>
       <ul>
         <li>20+ Social Posts (Multi-platform)</li>
@@ -159,8 +159,8 @@
 
     <!-- SMM -->
     <tr>
-      <td data-label="Service">SMM: Content Calendar (10 Social Posts)</td>
-      <td data-label="Basic">✔️</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$60/10 posts</td>
+      <td data-label="Service">SMM: Content Calendar (Social Posts)</td>
+      <td data-label="Basic">10</td><td data-label="Advanced">15</td><td data-label="Pro">20</td><td data-label="Add-On Price (USD)">$60/10 posts</td>
     </tr>
     <tr>
       <td data-label="Service">SMM: Engagement & Growth Strategy</td>

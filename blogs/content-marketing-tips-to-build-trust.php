@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Content Marketing Tips to Build Trust with Your Audience | Mad Networks</title>
+    <title>Content Marketing Tips to Build Trust with Your Audience | VSN Networks</title>
     <meta name="description" content="Learn powerful content marketing tips to build trust, engage your audience, and grow your business authentically.">
     <link rel="canonical" href="https://yourdomain.com/blogs/content-marketing-tips-to-build-trust.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -170,7 +170,7 @@
         <h2>📈 Remember: Trust Leads to Conversions</h2>
         <p>When your content consistently helps, educates, or entertains your audience, they begin to see you as a guide — not a vendor. And once they trust you, the sale becomes a natural next step.</p>
 
-        <p>At <strong>Mad Networks</strong>, we help businesses build trust through strategic content marketing that speaks to the heart of their audience — and ranks in search results too.</p>
+        <p>At <strong>VSN Networks</strong>, we help businesses build trust through strategic content marketing that speaks to the heart of their audience — and ranks in search results too.</p>
     </div>
 
     <div class="cta-box">
@@ -179,7 +179,7 @@
         <a href="../book-appointment.php" class="cta-button">Get Free Content Strategy</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Experts in SEO, Content, and Trust-Based Growth</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Experts in SEO, Content, and Trust-Based Growth</p>
 
 </body>
 </html>

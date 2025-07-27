@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Home | MAD Networks</title>  
+  <title>Home | VSN Networks</title>  
   <?php include 'includes/head-main.html'; ?>
 </head>
 <body>
@@ -9,7 +9,7 @@
 
 <!-- <header class="site-header">
   <div class="container">
-    <h1 class="logo">MAD Networks</h1>
+    <h1 class="logo">VSN Networks</h1>
 
 
     <div class="menu-toggle" id="menu-toggle">
@@ -151,7 +151,7 @@
 
   <!-- <footer class="site-footer">
     <div class="container">
-      <p>&copy; <?= date('Y') ?> MAD Networks. All rights reserved.</p>
+      <p>&copy; <?= date('Y') ?> VSN Networks. All rights reserved.</p>
     </div>
   </footer> -->
 

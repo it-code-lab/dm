@@ -7,7 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Landing Page Optimization for Lead Generation | Mad Networks</title>
+  <title>Landing Page Optimization for Lead Generation | VSN Networks</title>
   <meta name="description" content="Boost your lead generation with high-converting landing pages. Learn proven strategies and design tips for better conversion rates.">
   <link rel="canonical" href="https://yourdomain.com/blogs/landing-page-optimization-lead-generation.php" />
   <?php include '../includes/head-main-blog.html'; ?>
@@ -156,7 +156,7 @@
     <li>Headline variations (problem vs. benefit-focused)</li>
   </ul>
 
-  <h2>🚀 How Mad Networks Helps You Generate More Leads</h2>
+  <h2>🚀 How VSN Networks Helps You Generate More Leads</h2>
   <ul>
     <li>✅ Custom landing page design optimized for conversions</li>
     <li>✅ Copywriting that aligns with your target audience’s pain points</li>
@@ -179,6 +179,6 @@
   <h2>Want a landing page that converts like crazy?</h2>
   <a href="../book-appointment.php" class="cta-button">Get a Free Landing Page Audit</a>
 </div>
-<p class="post-meta">Posted by <strong>Mad Networks</strong> | Experts in Conversion-Optimized Design</p>
+<p class="post-meta">Posted by <strong>VSN Networks</strong> | Experts in Conversion-Optimized Design</p>
 </body>
 </html>

@@ -7,8 +7,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Digital Marketing Strategies for eCommerce Brands | Mad Networks</title>
-  <meta name="description" content="Explore powerful digital marketing strategies to grow your online store, boost traffic, and increase eCommerce sales with Mad Networks.">
+  <title>Digital Marketing Strategies for eCommerce Brands | VSN Networks</title>
+  <meta name="description" content="Explore powerful digital marketing strategies to grow your online store, boost traffic, and increase eCommerce sales with VSN Networks.">
   <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-ecommerce.php" />
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
@@ -174,15 +174,15 @@
 
     <h2>💡 Final Thoughts</h2>
     <p>Digital marketing is no longer optional for eCommerce—it’s the backbone of your growth. From SEO to email automation and paid ads, every piece of your strategy must work in sync to attract, convert, and retain customers.</p>
-    <p>At Mad Networks, we’ve helped online brands across industries build revenue-driving marketing engines. Ready to unlock your store’s full potential?</p>
+    <p>At VSN Networks, we’ve helped online brands across industries build revenue-driving marketing engines. Ready to unlock your store’s full potential?</p>
   </div>
 
   <div class="cta-box">
     <h2>Want to Grow Your eCommerce Sales Fast?</h2>
-    <p>Let Mad Networks design a results-driven digital marketing strategy tailored to your store.</p>
+    <p>Let VSN Networks design a results-driven digital marketing strategy tailored to your store.</p>
     <a href="../book-appointment.php" class="cta-button">Schedule Your Free Consultation</a>
   </div>
 
-  <p class="post-meta">Posted by <strong>Mad Networks</strong> | Expert eCommerce Marketing Services</p>
+  <p class="post-meta">Posted by <strong>VSN Networks</strong> | Expert eCommerce Marketing Services</p>
 </body>
 </html>

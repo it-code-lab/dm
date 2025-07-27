@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top 10 Ways Digital Marketing Boosts Your Sales | Mad Networks</title>
+    <title>Top 10 Ways Digital Marketing Boosts Your Sales | VSN Networks</title>
     <meta name="description" content="Discover the top 10 ways digital marketing helps businesses increase their sales through SEO, ads, content, email, social media, and more.">
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
@@ -123,7 +123,7 @@
     <?php include '../includes/blog_header.php'; ?>
     <div class="container">
         <h1>Top 10 Ways Digital Marketing Boosts Your Sales</h1>
-        <p class="subheading">Digital marketing is more than visibility — it’s a revenue engine. Here’s how Mad Networks helps businesses turn clicks into customers.</p>
+        <p class="subheading">Digital marketing is more than visibility — it’s a revenue engine. Here’s how VSN Networks helps businesses turn clicks into customers.</p>
 
         <img src="/img/blogs/top-10-ways-digital-marketing-boosts-sales.jpg" alt="Digital Marketing Sales Growth" class="featured-image">
 
@@ -160,7 +160,7 @@
         <p>Digital marketing gives small businesses access to the same powerful tools that big brands use — often with better results.</p>
 
         <h2>🔍 Bottom Line</h2>
-        <p>If you’re not using digital marketing strategically, you’re leaving money on the table. At Mad Networks, we make sure your marketing actually drives sales — not just likes.</p>
+        <p>If you’re not using digital marketing strategically, you’re leaving money on the table. At VSN Networks, we make sure your marketing actually drives sales — not just likes.</p>
 
     </div>
     <div class="cta-box">
@@ -168,7 +168,7 @@
         <a href="../book-appointment.php" class="cta-button">Book Free Consultation</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Digital Marketing Experts</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Digital Marketing Experts</p>
 
 </body>
 </html>

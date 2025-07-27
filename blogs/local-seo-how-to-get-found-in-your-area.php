@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Local SEO: How to Get Found in Your Area | Mad Networks</title>
+    <title>Local SEO: How to Get Found in Your Area | VSN Networks</title>
     <meta name="description" content="Learn how to boost your local visibility with proven Local SEO strategies. Get found by customers in your area.">
     <link rel="canonical" href="https://yourdomain.com/blogs/local-seo-how-to-get-found-in-your-area.php" />
     <?php include '../includes/head-main-blog.html'; ?>
@@ -106,7 +106,7 @@
     <?php include '../includes/blog_header.php'; ?>
     <div class="container">
         <h1>Local SEO: How to Get Found in Your Area</h1>
-        <p class="subheading">Want more local customers? Discover expert strategies from Mad Networks to dominate local search results and grow your business in your neighborhood.</p>
+        <p class="subheading">Want more local customers? Discover expert strategies from VSN Networks to dominate local search results and grow your business in your neighborhood.</p>
 
         <img src="/img/blogs/local-seo.jpg" alt="Map showing local business ranking on Google" class="featured-image">
         <!-- Image Suggestion: Map with a business pin at the top of search results -->
@@ -177,7 +177,7 @@
         <h2>📍 Final Thoughts: Local SEO Is No Longer Optional</h2>
         <p>If you're not actively investing in Local SEO, your competitors likely are. Showing up in front of customers at the exact moment they need you — that’s the power of location-based search. And the results are trackable, scalable, and incredibly cost-effective.</p>
 
-        <p>At <strong>Mad Networks</strong>, we specialize in building strong local strategies tailored to your industry and location. Whether you're a clinic, restaurant, home service provider, or consultant — we’ve got you covered.</p>
+        <p>At <strong>VSN Networks</strong>, we specialize in building strong local strategies tailored to your industry and location. Whether you're a clinic, restaurant, home service provider, or consultant — we’ve got you covered.</p>
     </div>
 
     <div class="cta-box">
@@ -186,7 +186,7 @@
         <a href="../book-appointment.php" class="cta-button">Book Free Consultation</a>
     </div>
 
-    <p class="post-meta">Posted by <strong>Mad Networks</strong> | Trusted Digital Marketing Experts</p>
+    <p class="post-meta">Posted by <strong>VSN Networks</strong> | Trusted Digital Marketing Experts</p>
 
 </body>
 </html>
