@@ -161,10 +161,11 @@
 
         <h2>📚 Related Blog Posts to Explore</h2>
         <ul>
-            <li><a href="/blogs/social-media-strategies-small-business.php">Social Media Strategies That Actually Work</a></li>
-            <li><a href="/blogs/how-to-build-strong-online-presence.php">How to Build a Strong Online Presence</a></li>
-            <li><a href="/blogs/seo-vs-paid-ads-which-is-right-for-your-business.php">SEO vs Paid Ads: What’s Right for You?</a></li>
-            <li><a href="/blogs/top-10-ways-digital-marketing-boosts-sales.php">Top 10 Ways Digital Marketing Boosts Sales</a></li>
+            <li><a href="/blogs/conversion-rate-optimization-revenue.php">Conversion Rate Optimization Revenue</a></li>
+            <li><a href="/blogs/digital-marketing-for-coaches-and-consultants.php">Digital Marketing For Coaches And Consultants</a></li>
+            <li><a href="/blogs/digital-marketing-for-ecommerce.php">Digital Marketing For Ecommerce</a></li>
+            <li><a href="/blogs/digital-marketing-for-event-planners.php">Digital Marketing For Event Planners</a></li>
+
         </ul>
 
         <h2>📈 Remember: Trust Leads to Conversions</h2>

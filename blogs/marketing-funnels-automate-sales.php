@@ -153,11 +153,11 @@
 
   <h2>📚 Related Resources You Might Like</h2>
   <ul>
-    <li><a href="/blogs/landing-page-optimization-lead-generation.php">Landing Page Optimization for Lead Generation</a></li>
-    <li><a href="/blogs/email-marketing-tips-for-beginners.php">Email Marketing Tips for Beginners</a></li>
-    <li><a href="/blogs/how-conversion-rate-optimization-revenue.php">How CRO Increases Your Revenue</a></li>
-    <li><a href="/blogs/social-media-lead-generation.php">How to Generate Leads with Social Media</a></li>
-    <li><a href="/blogs/google-ads-vs-seo.php">Google Ads vs. SEO — What to Choose?</a></li>
+    <li><a href="/blogs/marketing-strategies-for-freelancers-and-solopreneurs.php">Marketing Strategies For Freelancers And Solopreneurs</a></li>
+    <li><a href="/blogs/promoting-local-events-with-digital-marketing.php">Promoting Local Events With Digital Marketing</a></li>
+    <li><a href="/blogs/real-estate-agent-facebook-google-ads.php">Real Estate Agent Facebook Google Ads</a></li>
+    <li><a href="/blogs/reduce-customer-acquisition-cost.php">Reduce Customer Acquisition Cost</a></li>
+
   </ul>
 </div>
 

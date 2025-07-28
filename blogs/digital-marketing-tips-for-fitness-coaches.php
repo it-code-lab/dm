@@ -169,10 +169,13 @@
 
     <h2>🔗 Internal Resources for Fitness Entrepreneurs</h2>
     <ul>
-      <li><a href="/blogs/how-to-create-your-first-fitness-lead-magnet.php">How to Create Your First Fitness Lead Magnet</a></li>
-      <li><a href="/blogs/instagram-marketing-for-coaches.php">Instagram Marketing for Coaches</a></li>
-      <li><a href="/blogs/building-online-programs-for-trainers.php">Building Online Programs as a Trainer</a></li>
-      <li><a href="/blogs/seo-checklist-for-small-businesses.php">SEO Checklist for Small Businesses</a></li>
+        <li><a href="/blogs/email-marketing-best-practices-for-beginners.php">Email Marketing Best Practices For Beginners</a></li>
+        <li><a href="/blogs/google-ads-vs-seo.php">Google Ads Vs Seo</a></li>
+        <li><a href="/blogs/how-artists-can-build-online-presence.php">How Artists Can Build Online Presence</a></li>
+        <li><a href="/blogs/how-lawyers-can-build-authority-using-seo-and-content.php">How Lawyers Can Build Authority Using Seo And Content</a></li>
+        <li><a href="/blogs/how-restaurants-use-digital-marketing.php">How Restaurants Use Digital Marketing</a></li>
+        <li><a href="/blogs/how-to-build-strong-online-presence.php">How To Build Strong Online Presence</a></li>
+
     </ul>
 
     <h2>🚀 Final Thoughts: Grow Strong Online</h2>

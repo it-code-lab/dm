@@ -153,10 +153,12 @@
 
     <h2>🔗 Internal Resources You’ll Find Helpful</h2>
     <ul>
-      <li><a href="/blogs/storytelling-in-marketing.php">Storytelling in Digital Marketing: The Secret Weapon</a></li>
-      <li><a href="/blogs/seo-for-small-websites.php">SEO Tips for Small Organizations and Teams</a></li>
-      <li><a href="/blogs/email-marketing-best-practices.php">Best Practices for Email Marketing Campaigns</a></li>
-      <li><a href="/blogs/digital-strategy-for-events.php">Running Successful Digital Campaigns for Events</a></li>
+        <li><a href="/blogs/digital-marketing-for-startups.php">Digital Marketing For Startups</a></li>
+        <li><a href="/blogs/digital-marketing-tips-for-fitness-coaches.php">Digital Marketing Tips For Fitness Coaches</a></li>
+        <li><a href="/blogs/email-marketing-best-practices-for-beginners.php">Email Marketing Best Practices For Beginners</a></li>
+        <li><a href="/blogs/google-ads-vs-seo.php">Google Ads Vs Seo</a></li>
+        <li><a href="/blogs/how-artists-can-build-online-presence.php">How Artists Can Build Online Presence</a></li>
+
     </ul>
 
     <h2>✨ Final Thoughts</h2>

@@ -170,10 +170,12 @@
 
     <h2>🔗 Related Posts to Guide Your Startup Marketing</h2>
     <ul>
-      <li><a href="/blogs/how-to-create-a-digital-marketing-strategy.php">How to Create a Digital Marketing Strategy in 2025</a></li>
-      <li><a href="/blogs/seo-for-startups.php">Beginner SEO Guide for Startups</a></li>
-      <li><a href="/blogs/branding-tips-for-startups.php">Branding Tips for New Businesses</a></li>
-      <li><a href="/blogs/startup-landing-page-tips.php">Startup Landing Page Optimization</a></li>
+        <li><a href="/blogs/digital-marketing-tips-for-fitness-coaches.php">Digital Marketing Tips For Fitness Coaches</a></li>
+        <li><a href="/blogs/email-marketing-best-practices-for-beginners.php">Email Marketing Best Practices For Beginners</a></li>
+        <li><a href="/blogs/google-ads-vs-seo.php">Google Ads Vs Seo</a></li>
+        <li><a href="/blogs/how-artists-can-build-online-presence.php">How Artists Can Build Online Presence</a></li>
+        <li><a href="/blogs/how-lawyers-can-build-authority-using-seo-and-content.php">How Lawyers Can Build Authority Using Seo And Content</a></li>
+
     </ul>
   </div>
 

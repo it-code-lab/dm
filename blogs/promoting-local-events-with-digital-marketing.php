@@ -166,10 +166,12 @@
 
     <h2>🔗 Internal Links for Event Marketing</h2>
     <ul>
-      <li><a href="/blogs/local-seo-for-small-businesses.php">Local SEO for Small Businesses</a></li>
-      <li><a href="/blogs/how-to-use-facebook-ads-for-events.php">How to Use Facebook Ads for Local Events</a></li>
-      <li><a href="/blogs/email-marketing-strategies-that-convert.php">Email Marketing Strategies That Convert</a></li>
-      <li><a href="/blogs/creating-high-converting-landing-pages.php">Creating High-Converting Event Landing Pages</a></li>
+        <li><a href="/blogs/real-estate-agent-facebook-google-ads.php">Real Estate Agent Facebook Google Ads</a></li>
+        <li><a href="/blogs/reduce-customer-acquisition-cost.php">Reduce Customer Acquisition Cost</a></li>
+        <li><a href="/blogs/seo-growth-for-saas-startups.php">Seo Growth For Saas Startups</a></li>
+        <li><a href="/blogs/seo-vs-paid-ads-which-is-right-for-your-business.php">Seo Vs Paid Ads Which Is Right For Your Business</a></li>
+        <li><a href="/blogs/social-media-marketing-real-estate.php">Social Media Marketing Real Estate</a></li>
+
     </ul>
 
     <h2>🎉 Wrap-Up</h2>

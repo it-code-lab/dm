@@ -165,10 +165,11 @@
 
         <h2>📚 Related Articles for Authors</h2>
         <ul>
-            <li><a href="/blogs/email-marketing-best-practices-for-beginners.php">Email Marketing That Converts</a></li>
-            <li><a href="/blogs/how-website-design-affects-marketing-results.php">How Website Design Affects Marketing</a></li>
-            <li><a href="/blogs/content-marketing-tips-to-build-trust.php">Content Marketing Tips to Build Trust</a></li>
-            <li><a href="/blogs/how-to-build-strong-online-presence.php">How to Build a Strong Online Presence</a></li>
+            <li><a href="/blogs/boost-local-business-with-geo-targeted-ads.php">Boost Local Business With Geo Targeted Ads</a></li>
+            <li><a href="/blogs/content-marketing-tips-to-build-trust.php">Content Marketing Tips To Build Trust</a></li>
+            <li><a href="/blogs/conversion-rate-optimization-revenue.php">Conversion Rate Optimization Revenue</a></li>
+            <li><a href="/blogs/digital-marketing-for-coaches-and-consultants.php">Digital Marketing For Coaches And Consultants</a></li>
+
         </ul>
 
         <h2>💬 Final Thoughts: Build Your Author Career on Your Own Terms</h2>

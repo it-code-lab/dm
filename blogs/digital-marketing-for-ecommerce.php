@@ -166,10 +166,13 @@
 
     <h2>🔗 More Digital Marketing Resources</h2>
     <ul>
-      <li><a href="/blogs/seo-product-pages.php">SEO Best Practices for Product Pages</a></li>
-      <li><a href="/blogs/email-marketing-automation.php">Email Flows That Boost eCommerce Sales</a></li>
-      <li><a href="/blogs/social-proof-strategies.php">How to Use Social Proof for Online Stores</a></li>
-      <li><a href="/blogs/landing-page-optimization.php">Optimize Your Landing Pages for Conversions</a></li>
+        <li><a href="/blogs/digital-marketing-for-event-planners.php">Digital Marketing For Event Planners</a></li>
+        <li><a href="/blogs/digital-marketing-for-healthcare.php">Digital Marketing For Healthcare</a></li>
+        <li><a href="/blogs/digital-marketing-for-lawyers.php">Digital Marketing For Lawyers</a></li>
+        <li><a href="/blogs/digital-marketing-for-nonprofits.php">Digital Marketing For Nonprofits</a></li>
+        <li><a href="/blogs/digital-marketing-for-startups.php">Digital Marketing For Startups</a></li>
+        <li><a href="/blogs/digital-marketing-tips-for-fitness-coaches.php">Digital Marketing Tips For Fitness Coaches</a></li>
+
     </ul>
 
     <h2>💡 Final Thoughts</h2>

@@ -175,10 +175,12 @@
 
         <h2>📚 Related Articles for Deeper Strategy</h2>
         <ul>
-            <li><a href="/blogs/content-marketing-tips-to-build-trust.php">Content Marketing Tips to Build Trust</a></li>
-            <li><a href="/blogs/social-media-strategies-small-business.php">Social Media Strategies That Work</a></li>
-            <li><a href="/blogs/how-to-build-strong-online-presence.php">How to Build a Strong Online Presence</a></li>
-            <li><a href="/blogs/top-10-ways-digital-marketing-boosts-sales.php">Top 10 Ways Digital Marketing Boosts Sales</a></li>
+            <li><a href="/blogs/google-ads-vs-seo.php">Google Ads Vs Seo</a></li>
+            <li><a href="/blogs/how-artists-can-build-online-presence.php">How Artists Can Build Online Presence</a></li>
+            <li><a href="/blogs/how-lawyers-can-build-authority-using-seo-and-content.php">How Lawyers Can Build Authority Using Seo And Content</a></li>
+            <li><a href="/blogs/how-restaurants-use-digital-marketing.php">How Restaurants Use Digital Marketing</a></li>
+            <li><a href="/blogs/how-to-build-strong-online-presence.php">How To Build Strong Online Presence</a></li>
+
         </ul>
 
         <h2>💬 Final Thoughts: Keep It Human, Helpful & Honest</h2>

@@ -154,11 +154,12 @@
 
     <h2>🔗 Related Articles You Might Find Useful</h2>
     <ul>
-        <li><a href="/blogs/how-startups-can-use-digital-marketing.php">How Startups Can Use Digital Marketing</a></li>
-        <li><a href="/blogs/digital-marketing-for-lawyers.php">Digital Marketing for Lawyers & Law Firms</a></li>
-        <li><a href="/blogs/why-every-business-needs-digital-marketing.php">Why Every Business Needs Digital Marketing</a></li>
-        <li><a href="/blogs/social-media-marketing-for-small-businesses.php">Social Media Marketing for Small Businesses</a></li>
-        <li><a href="/blogs/website-design-tips-for-professionals.php">Website Design Tips for Professionals</a></li>
+        <li><a href="/blogs/digital-marketing-for-lawyers.php">Digital Marketing For Lawyers</a></li>
+        <li><a href="/blogs/digital-marketing-for-nonprofits.php">Digital Marketing For Nonprofits</a></li>
+        <li><a href="/blogs/digital-marketing-for-startups.php">Digital Marketing For Startups</a></li>
+        <li><a href="/blogs/digital-marketing-tips-for-fitness-coaches.php">Digital Marketing Tips For Fitness Coaches</a></li>
+        <li><a href="/blogs/email-marketing-best-practices-for-beginners.php">Email Marketing Best Practices For Beginners</a></li>
+
     </ul>
 </div>
 <div class="cta-box">

@@ -168,10 +168,12 @@
 
     <h2>🔗 Related Resources to Help You Grow</h2>
     <ul>
-      <li><a href="/blogs/top-digital-marketing-kpis.php">Top Digital Marketing KPIs to Track</a></li>
-      <li><a href="/blogs/setting-smart-digital-marketing-goals.php">How to Set SMART Marketing Goals</a></li>
-      <li><a href="/blogs/boost-conversion-with-better-landing-pages.php">Boost Conversions with Better Landing Pages</a></li>
-      <li><a href="/blogs/content-vs-paid-ads.php">Content Marketing vs Paid Ads: Which Wins?</a></li>
+        <li><a href="/blogs/seo-growth-for-saas-startups.php">Seo Growth For Saas Startups</a></li>
+        <li><a href="/blogs/seo-vs-paid-ads-which-is-right-for-your-business.php">Seo Vs Paid Ads Which Is Right For Your Business</a></li>
+        <li><a href="/blogs/social-media-marketing-real-estate.php">Social Media Marketing Real Estate</a></li>
+        <li><a href="/blogs/social-media-strategies-small-business.php">Social Media Strategies Small Business</a></li>
+        <li><a href="/blogs/top-10-ways-digital-marketing-boosts-sales.php">Top 10 Ways Digital Marketing Boosts Sales</a></li>
+
     </ul>
   </div>
 

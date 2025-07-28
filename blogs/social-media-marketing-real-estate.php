@@ -154,11 +154,11 @@
 
     <h2>🔗 Related Articles You Might Find Useful</h2>
     <ul>
-        <li><a href="/blogs/real-estate-agent-facebook-google-ads.php">Marketing for Real Estate Agents: Facebook & Google Ads</a></li>
-        <li><a href="/blogs/local-seo-strategies-for-small-businesses.php">Local SEO Strategies for Small Businesses</a></li>
-        <li><a href="/blogs/website-design-for-professionals.php">Website Design for Professionals</a></li>
-        <li><a href="/blogs/google-my-business-optimization.php">Google My Business Optimization Tips</a></li>
-        <li><a href="/blogs/how-to-build-trust-with-content-marketing.php">How to Build Trust with Content Marketing</a></li>
+    <li><a href="/blogs/social-media-strategies-small-business.php">Social Media Strategies Small Business</a></li>
+    <li><a href="/blogs/top-10-ways-digital-marketing-boosts-sales.php">Top 10 Ways Digital Marketing Boosts Sales</a></li>
+    <li><a href="/blogs/top-digital-marketing-kpis.php">Top Digital Marketing Kpis</a></li>
+    <li><a href="/blogs/using-google-analytics-to-track-marketing-roi.php">Using Google Analytics To Track Marketing Roi</a></li>
+
     </ul>
 </div>
 

@@ -173,10 +173,11 @@
 
     <h2>🔗 Related Blogs on Digital Growth Metrics</h2>
     <ul>
-      <li><a href="/blogs/setting-smart-digital-marketing-goals.php">How to Set SMART Marketing Goals</a></li>
-      <li><a href="/blogs/digital-marketing-strategy-2025.php">Creating a Winning Strategy in 2025</a></li>
-      <li><a href="/blogs/how-to-lower-customer-acquisition-cost.php">Ways to Reduce Customer Acquisition Cost</a></li>
-      <li><a href="/blogs/how-to-track-seo-roi.php">How to Measure SEO ROI Like a Pro</a></li>
+        <li><a href="/blogs/using-google-analytics-to-track-marketing-roi.php">Using Google Analytics To Track Marketing Roi</a></li>
+        <li><a href="/blogs/why-every-author-needs-website-and-email-list.php">Why Every Author Needs Website And Email List</a></li>
+        <li><a href="/blogs/why-every-business-needs-digital-marketing.php">Why Every Business Needs Digital Marketing</a></li>
+        <li><a href="/blogs/why-your-business-needs-a-blog.php">Why Your Business Needs A Blog</a></li>
+
     </ul>
   </div>
 

@@ -170,10 +170,11 @@
 
         <h2>📚 Related Resources</h2>
         <ul>
-            <li><a href="/blogs/top-10-ways-digital-marketing-boosts-sales.php">Top 10 Ways Digital Marketing Boosts Sales</a></li>
-            <li><a href="/blogs/how-to-build-strong-online-presence.php">How to Build a Strong Online Presence</a></li>
-            <li><a href="/blogs/local-seo-how-to-get-found-in-your-area.php">Local SEO: Get Found in Your Area</a></li>
-            <li><a href="/blogs/seo-vs-paid-ads-which-is-right-for-your-business.php">SEO vs Paid Ads: What’s Right for Your Business?</a></li>
+        <li><a href="/blogs/top-10-ways-digital-marketing-boosts-sales.php">Top 10 Ways Digital Marketing Boosts Sales</a></li>
+        <li><a href="/blogs/top-digital-marketing-kpis.php">Top Digital Marketing Kpis</a></li>
+        <li><a href="/blogs/using-google-analytics-to-track-marketing-roi.php">Using Google Analytics To Track Marketing Roi</a></li>
+        <li><a href="/blogs/why-every-author-needs-website-and-email-list.php">Why Every Author Needs Website And Email List</a></li>
+
         </ul>
 
         <h2>👋 Final Thoughts: Small Businesses Win with Strategy</h2>

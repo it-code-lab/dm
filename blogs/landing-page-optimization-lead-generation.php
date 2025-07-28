@@ -167,11 +167,12 @@
 
   <h2>🔗 Related Lead Generation Resources</h2>
   <ul>
-    <li><a href="/blogs/social-media-lead-generation.php">Social Media Lead Generation Tactics</a></li>
-    <li><a href="/blogs/ppc-campaign-mistakes-to-avoid.php">5 PPC Campaign Mistakes to Avoid</a></li>
-    <li><a href="/blogs/website-design-for-professionals.php">Website Design Tips for Professionals</a></li>
-    <li><a href="/blogs/how-to-build-trust-with-content-marketing.php">How to Build Trust with Content Marketing</a></li>
-    <li><a href="/blogs/seo-growth-for-saas-startups.php">How SEO Drives Growth for SaaS Startups</a></li>
+    <li><a href="/blogs/local-seo-how-to-get-found-in-your-area.php">Local Seo How To Get Found In Your Area</a></li>
+    <li><a href="/blogs/marketing-funnels-automate-sales.php">Marketing Funnels Automate Sales</a></li>
+    <li><a href="/blogs/marketing-strategies-for-freelancers-and-solopreneurs.php">Marketing Strategies For Freelancers And Solopreneurs</a></li>
+    <li><a href="/blogs/promoting-local-events-with-digital-marketing.php">Promoting Local Events With Digital Marketing</a></li>
+    <li><a href="/blogs/real-estate-agent-facebook-google-ads.php">Real Estate Agent Facebook Google Ads</a></li>
+
   </ul>
 </div>
 

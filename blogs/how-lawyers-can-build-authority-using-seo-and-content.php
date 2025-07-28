@@ -155,10 +155,11 @@
 
     <h2>🔗 Recommended Reads for Legal Professionals</h2>
     <ul>
-      <li><a href="/blogs/local-seo-for-service-based-businesses.php">Local SEO for Service-Based Businesses</a></li>
-      <li><a href="/blogs/blogging-strategies-for-small-businesses.php">Blogging Strategies for Small Firms</a></li>
-      <li><a href="/blogs/social-proof-and-reputation-building.php">Using Reviews to Build Legal Trust</a></li>
-      <li><a href="/blogs/seo-vs-ads-for-lawyers.php">SEO vs Paid Ads – Which One Works for Lawyers?</a></li>
+        <li><a href="/blogs/how-restaurants-use-digital-marketing.php">How Restaurants Use Digital Marketing</a></li>
+        <li><a href="/blogs/how-to-build-strong-online-presence.php">How To Build Strong Online Presence</a></li>
+        <li><a href="/blogs/how-website-design-affects-marketing-results.php">How Website Design Affects Marketing Results</a></li>
+        <li><a href="/blogs/landing-page-optimization-lead-generation.php">Landing Page Optimization Lead Generation</a></li>
+
     </ul>
 
     <h2>💼 You Deserve to Be Found First</h2>

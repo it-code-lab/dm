@@ -158,11 +158,11 @@
 
   <h2>🔗 Explore More Growth Strategies</h2>
   <ul>
-    <li><a href="/blogs/landing-page-optimization-lead-generation.php">Landing Page Optimization for Lead Generation</a></li>
-    <li><a href="/blogs/google-ads-vs-seo.php">When Should You Invest in Google Ads vs. SEO?</a></li>
-    <li><a href="/blogs/content-marketing-for-small-business.php">Content Marketing for Small Business Growth</a></li>
-    <li><a href="/blogs/how-seo-drives-growth-for-saas-startups.php">How SEO Drives Growth for SaaS Startups</a></li>
-    <li><a href="/blogs/ppc-campaign-mistakes-to-avoid.php">5 PPC Campaign Mistakes to Avoid</a></li>
+    <li><a href="/blogs/digital-marketing-for-coaches-and-consultants.php">Digital Marketing For Coaches And Consultants</a></li>
+    <li><a href="/blogs/digital-marketing-for-ecommerce.php">Digital Marketing For Ecommerce</a></li>
+    <li><a href="/blogs/digital-marketing-for-event-planners.php">Digital Marketing For Event Planners</a></li>
+    <li><a href="/blogs/digital-marketing-for-healthcare.php">Digital Marketing For Healthcare</a></li>
+
   </ul>
 </div>
 

@@ -3,7 +3,8 @@
 ?>
 <header class="site-header">
   <div class="container">
-    <h1 class="logo"><a href="../index.php" style="color: white; text-decoration: none;">VSN Networks</a></h1>
+    <!-- <h1 class="logo"><a href="../index.php" style="color: white; text-decoration: none;">VSN Networks</a></h1> -->
+    <h1 class="logo"><a href="../index.php" style="color: white; text-decoration: none;"><img class="logoimage" src="../assets/icons/logo.png" alt="">VSN Networks</a></h1>
 
     <!-- Hamburger Toggle for Mobile -->
     <div class="menu-toggle" id="menu-toggle">

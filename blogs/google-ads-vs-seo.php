@@ -183,11 +183,12 @@
 
   <h2>🔗 More Strategic Marketing Tips</h2>
   <ul>
-    <li><a href="/blogs/landing-page-optimization-lead-generation.php">Landing Page Optimization for Lead Generation</a></li>
-    <li><a href="/blogs/seo-growth-for-saas-startups.php">How SEO Drives Growth for SaaS Startups</a></li>
-    <li><a href="/blogs/ppc-campaign-mistakes-to-avoid.php">5 PPC Campaign Mistakes to Avoid</a></li>
-    <li><a href="/blogs/content-marketing-for-small-business.php">Content Marketing for Small Business Growth</a></li>
-    <li><a href="/blogs/local-seo-strategies-for-small-businesses.php">Local SEO Strategies for Small Businesses</a></li>
+    <li><a href="/blogs/how-artists-can-build-online-presence.php">How Artists Can Build Online Presence</a></li>
+    <li><a href="/blogs/how-lawyers-can-build-authority-using-seo-and-content.php">How Lawyers Can Build Authority Using Seo And Content</a></li>
+    <li><a href="/blogs/how-restaurants-use-digital-marketing.php">How Restaurants Use Digital Marketing</a></li>
+    <li><a href="/blogs/how-to-build-strong-online-presence.php">How To Build Strong Online Presence</a></li>
+    <li><a href="/blogs/how-website-design-affects-marketing-results.php">How Website Design Affects Marketing Results</a></li>
+
   </ul>
 </div>
 

@@ -160,10 +160,11 @@
 
     <h2>🔗 Related Resources from VSN Networks</h2>
     <ul>
-      <li><a href="/blogs/content-marketing-for-experts.php">Content Marketing for Experts and Coaches</a></li>
-      <li><a href="/blogs/lead-generation-strategies.php">Lead Generation Strategies That Work in 2025</a></li>
-      <li><a href="/blogs/building-your-personal-brand-online.php">Building Your Personal Brand Online</a></li>
-      <li><a href="/blogs/facebook-ads-for-service-businesses.php">Using Facebook Ads for Service-Based Businesses</a></li>
+        <li><a href="/blogs/digital-marketing-for-ecommerce.php">Digital Marketing For Ecommerce</a></li>
+        <li><a href="/blogs/digital-marketing-for-event-planners.php">Digital Marketing For Event Planners</a></li>
+        <li><a href="/blogs/digital-marketing-for-healthcare.php">Digital Marketing For Healthcare</a></li>
+        <li><a href="/blogs/digital-marketing-for-lawyers.php">Digital Marketing For Lawyers</a></li>
+        <li><a href="/blogs/digital-marketing-for-nonprofits.php">Digital Marketing For Nonprofits</a></li>
     </ul>
 
     <h2>📌 Final Thoughts</h2>
