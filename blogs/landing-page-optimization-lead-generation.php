@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Landing Page Optimization for Lead Generation | VSN Networks</title>
   <meta name="description" content="Boost your lead generation with high-converting landing pages. Learn proven strategies and design tips for better conversion rates.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/landing-page-optimization-lead-generation.php" />
+
+   <meta property='og:title' content='Landing Page Optimization for Lead Generation | VSN Networks'> 
+   <meta property='og:description' content='Boost your lead generation with high-converting landing pages. Learn proven strategies and design tips for better conversion rates.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/landing-page-optimization-lead-generation.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/landing-page-optimization-lead-generation.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

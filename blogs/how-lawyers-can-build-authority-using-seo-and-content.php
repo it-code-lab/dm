@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>How Lawyers Can Build Authority Using SEO and Content | VSN Networks</title>
   <meta name="description" content="Want to build trust and attract clients? Learn how lawyers can use SEO and content marketing to become an authority in their field.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/how-lawyers-can-build-authority-using-seo-and-content.php" />
+
+   <meta property='og:title' content='How Lawyers Can Build Authority Using SEO and Content | VSN Networks'> 
+   <meta property='og:description' content='Want to build trust and attract clients? Learn how lawyers can use SEO and content marketing to become an authority in their field.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/how-lawyers-can-build-authority-using-seo-and-content.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/how-lawyers-can-build-authority-using-seo-and-content.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

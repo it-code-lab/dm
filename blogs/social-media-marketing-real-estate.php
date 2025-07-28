@@ -9,7 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Social Media Marketing for Realtors: Tips to Win Clients | VSN Networks</title>
     <meta name="description" content="Discover proven social media tips for realtors to attract clients on Instagram and Facebook. Build your brand and grow your real estate business.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/social-media-marketing-real-estate.php" />
+
+    <meta property='og:title' content='Social Media Marketing for Realtors: Tips to Win Clients | VSN Networks'> 
+   <meta property='og:description' content='Discover proven social media tips for realtors to attract clients on Instagram and Facebook. Build your brand and grow your real estate business.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/social-media-marketing-real-estate.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/social-media-marketing-real-estate.php'>
+   
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

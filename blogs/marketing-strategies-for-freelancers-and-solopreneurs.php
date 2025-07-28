@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Marketing Strategies for Freelancers and Solopreneurs | VSN Networks</title>
   <meta name="description" content="Discover proven marketing strategies for freelancers and solopreneurs to build visibility, win clients, and grow income consistently.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/marketing-strategies-for-freelancers-and-solopreneurs.php" />
+
+   <meta property='og:title' content='Marketing Strategies for Freelancers and Solopreneurs | VSN Networks'> 
+   <meta property='og:description' content='Discover proven marketing strategies for freelancers and solopreneurs to build visibility, win clients, and grow income consistently.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/marketing-strategies-for-freelancers-and-solopreneurs.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/marketing-strategies-for-freelancers-and-solopreneurs.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

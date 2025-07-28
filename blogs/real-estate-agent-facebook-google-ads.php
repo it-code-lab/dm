@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marketing for Real Estate Agents: Facebook & Google Ads | VSN Networks</title>
     <meta name="description" content="Learn how Facebook and Google Ads can help real estate agents attract buyers and sellers in 2025. Proven strategies to grow your real estate business.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/real-estate-agent-facebook-google-ads.php" />
+
+   <meta property='og:title' content='Marketing for Real Estate Agents: Facebook & Google Ads | VSN Networks'> 
+   <meta property='og:description' content='Learn how Facebook and Google Ads can help real estate agents attract buyers and sellers in 2025. Proven strategies to grow your real estate business.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/real-estate-agent-facebook-google-ads.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/real-estate-agent-facebook-google-ads.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

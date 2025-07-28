@@ -9,6 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SEO vs. Paid Ads: What’s Right for Your Business? | VSN Networks</title>
     <meta name="description" content="Confused between SEO and paid ads? Learn the pros, cons, and when to use each to grow your business online.">
+
+   <meta property='og:title' content='SEO vs. Paid Ads: Whatâ€™s Right for Your Business? | VSN Networks'> 
+   <meta property='og:description' content='Confused between SEO and paid ads? Learn the pros, cons, and when to use each to grow your business online.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/seo-vs-paid-ads-which-is-right-for-your-business.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/seo-vs-paid-ads-which-is-right-for-your-business.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

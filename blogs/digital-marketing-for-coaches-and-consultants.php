@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Digital Marketing for Coaches and Consultants | VSN Networks</title>
   <meta name="description" content="Discover powerful digital marketing strategies for coaches and consultants to build authority, attract clients, and grow your practice online.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-coaches-and-consultants.php" />
+
+   <meta property='og:title' content='Digital Marketing for Coaches and Consultants | VSN Networks'> 
+   <meta property='og:description' content='Discover powerful digital marketing strategies for coaches and consultants to build authority, attract clients, and grow your practice online.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/digital-marketing-for-coaches-and-consultants.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/digital-marketing-for-coaches-and-consultants.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

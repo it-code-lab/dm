@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>When Should You Invest in Google Ads vs. SEO? | VSN Networks</title>
   <meta name="description" content="Explore the pros and cons of Google Ads and SEO. Learn when to use each strategy and how to combine them for better results.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/google-ads-vs-seo.php" />
+
+   <meta property='og:title' content='When Should You Invest in Google Ads vs. SEO? | VSN Networks'> 
+   <meta property='og:description' content='Explore the pros and cons of Google Ads and SEO. Learn when to use each strategy and how to combine them for better results.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/google-ads-vs-seo.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/google-ads-vs-seo.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

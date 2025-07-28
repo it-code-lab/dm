@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Digital Marketing Tips for Fitness Coaches and Personal Trainers | VSN Networks</title>
   <meta name="description" content="Want to grow your fitness business online? Discover powerful digital marketing tips tailored for personal trainers and fitness coaches.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-tips-for-fitness-coaches.php" />
+
+   <meta property='og:title' content='Digital Marketing Tips for Fitness Coaches and Personal Trainers | VSN Networks'> 
+   <meta property='og:description' content='Want to grow your fitness business online? Discover powerful digital marketing tips tailored for personal trainers and fitness coaches.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/digital-marketing-tips-for-fitness-coaches.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/digital-marketing-tips-for-fitness-coaches.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

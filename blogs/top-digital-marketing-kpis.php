@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Top Digital Marketing KPIs Every Business Should Track | VSN Networks</title>
   <meta name="description" content="Learn the most important digital marketing KPIs to track in 2025 to measure ROI, improve performance, and scale your campaigns effectively.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/top-digital-marketing-kpis.php" />
+
+   <meta property='og:title' content='Top Digital Marketing KPIs Every Business Should Track | VSN Networks'> 
+   <meta property='og:description' content='Learn the most important digital marketing KPIs to track in 2025 to measure ROI, improve performance, and scale your campaigns effectively.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/top-digital-marketing-kpis.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/top-digital-marketing-kpis.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

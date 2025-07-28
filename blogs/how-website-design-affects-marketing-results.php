@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>How Website Design Affects Your Marketing Results | VSN Networks</title>
     <meta name="description" content="Discover how smart website design influences SEO, conversions, bounce rates, and overall marketing performance.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/how-website-design-affects-marketing-results.php" />
+
+   <meta property='og:title' content='How Website Design Affects Your Marketing Results | VSN Networks'> 
+   <meta property='og:description' content='Discover how smart website design influences SEO, conversions, bounce rates, and overall marketing performance.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/how-website-design-affects-marketing-results.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/how-website-design-affects-marketing-results.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>How Restaurants Can Use Digital Marketing to Increase Bookings | VSN Networks</title>
   <meta name="description" content="Learn how restaurants can use digital marketing to boost bookings, attract loyal customers, and grow profits in a competitive food industry.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/how-restaurants-use-digital-marketing.php" />
+
+   <meta property='og:title' content='How Restaurants Can Use Digital Marketing to Increase Bookings | VSN Networks'> 
+   <meta property='og:description' content='Learn how restaurants can use digital marketing to boost bookings, attract loyal customers, and grow profits in a competitive food industry.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/how-restaurants-use-digital-marketing.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/how-restaurants-use-digital-marketing.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

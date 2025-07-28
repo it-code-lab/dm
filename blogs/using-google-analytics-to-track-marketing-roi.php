@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Using Google Analytics to Track Marketing ROI | VSN Networks</title>
     <meta name="description" content="Learn how to use Google Analytics to measure your marketing ROI, track conversions, and make smarter data-driven decisions.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/using-google-analytics-to-track-marketing-roi.php" />
+
+    <meta property='og:title' content='Using Google Analytics to Track Marketing ROI | VSN Networks'> 
+   <meta property='og:description' content='Learn how to use Google Analytics to measure your marketing ROI, track conversions, and make smarter data-driven decisions.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/using-google-analytics-to-track-marketing-roi.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/using-google-analytics-to-track-marketing-roi.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

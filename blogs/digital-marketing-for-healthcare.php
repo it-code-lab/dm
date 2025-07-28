@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>How Digital Marketing is Transforming the Healthcare Industry | VSN Networks</title>
     <meta name="description" content="Explore how digital marketing helps healthcare providers attract patients, build trust, and grow in 2025.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-healthcare.php" />
+
+   <meta property='og:title' content='How Digital Marketing is Transforming the Healthcare Industry | VSN Networks'> 
+   <meta property='og:description' content='Explore how digital marketing helps healthcare providers attract patients, build trust, and grow in 2025.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/digital-marketing-for-healthcare.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/digital-marketing-for-healthcare.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

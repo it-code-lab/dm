@@ -9,7 +9,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Promoting Local Events with Digital Marketing | VSN Networks</title>
   <meta name="description" content="Learn effective digital marketing strategies to promote local events, increase attendance, and create buzz in your community.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/promoting-local-events-with-digital-marketing.php" />
+
+   <meta property='og:title' content='Promoting Local Events with Digital Marketing | VSN Networks'> 
+   <meta property='og:description' content='Learn effective digital marketing strategies to promote local events, increase attendance, and create buzz in your community.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/promoting-local-events-with-digital-marketing.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/promoting-local-events-with-digital-marketing.php'>
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>How Artists and Creatives Can Build an Online Presence | VSN Networks</title>
   <meta name="description" content="Discover how artists and creatives can build an online presence to showcase work, connect with audiences, and grow their brand with digital marketing.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/how-artists-can-build-online-presence.php" />
+
+   <meta property='og:title' content='How Artists and Creatives Can Build an Online Presence | VSN Networks'> 
+   <meta property='og:description' content='Discover how artists and creatives can build an online presence to showcase work, connect with audiences, and grow their brand with digital marketing.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/how-artists-can-build-online-presence.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/how-artists-can-build-online-presence.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

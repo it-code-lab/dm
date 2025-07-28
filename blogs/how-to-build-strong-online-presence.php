@@ -9,6 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>How to Build a Strong Online Presence for Your Brand | VSN Networks</title>
     <meta name="description" content="Learn how to establish a powerful online presence that builds brand awareness, trust, and growth using proven digital marketing strategies.">
+
+   <meta property='og:title' content='How to Build a Strong Online Presence for Your Brand | VSN Networks'> 
+   <meta property='og:description' content='Learn how to establish a powerful online presence that builds brand awareness, trust, and growth using proven digital marketing strategies.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/how-to-build-strong-online-presence.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/how-to-build-strong-online-presence.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

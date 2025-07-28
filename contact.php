@@ -4,6 +4,13 @@
 <head>
   <title>Contact Us</title>
   <?php include 'includes/head-main.html'; ?>
+  <meta name='description' content='Contact us for any questions on the plans or packages'> 
+   <meta property='og:title' content='Contact Us'> 
+   <meta property='og:description' content='Contact us for any questions on the plans or packages'>
+   <meta property='og:url' content='vsnnetworks.com/contact.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/contact.php'>
+
 </head>
 
 <body>

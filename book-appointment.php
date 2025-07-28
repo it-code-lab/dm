@@ -6,6 +6,13 @@
   <title>Book Appointment | VSN Networks</title>
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="stylesheet" href="assets/css/responsive.css">
+  <meta name='description' content='Book an appointment for consultation'> 
+   <meta property='og:title' content='Book Appointment | VSN Networks'> 
+   <meta property='og:description' content='Book an appointment for consultation'>
+   <meta property='og:url' content='vsnnetworks.com/book-appointment.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/book-appointment.php'>
+
 </head>
 <body>
 

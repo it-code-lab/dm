@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Why Every Author Needs a Website and Email List | VSN Networks</title>
     <meta name="description" content="Discover why every author needs a website and email list to build a lasting career, connect with readers, and control their success.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/why-every-author-needs-website-and-email-list.php" />
+
+   <meta property='og:title' content='Why Every Author Needs a Website and Email List | VSN Networks'> 
+   <meta property='og:description' content='Discover why every author needs a website and email list to build a lasting career, connect with readers, and control their success.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/why-every-author-needs-website-and-email-list.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/why-every-author-needs-website-and-email-list.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

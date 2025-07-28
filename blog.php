@@ -17,8 +17,15 @@ function formatTitle($filename) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Our Blog Articles | CleanPix</title>
+  <title>Our Blog Articles | VSN Networks</title>
   <?php include 'includes/head-main.html'; ?>
+  <meta name='description' content='Check out our blogs on different topics related to digital marketing'> 
+   <meta property='og:title' content='Our Blog Articles | VSN Networks'> 
+   <meta property='og:description' content='Check out our blogs on different topics related to digital marketing'>
+   <meta property='og:url' content='vsnnetworks.com/blog.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blog.php'>
+
   <style>
 
     h1 {

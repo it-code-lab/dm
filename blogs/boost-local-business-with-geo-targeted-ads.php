@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Boost Local Business with Geo-Targeted Ads | VSN Networks</title>
   <meta name="description" content="Learn how geo-targeted ads can help local businesses attract nearby customers, increase foot traffic, and boost sales effectively.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/boost-local-business-with-geo-targeted-ads.php" />
+
+   <meta property='og:title' content='Boost Local Business with Geo-Targeted Ads | VSN Networks'> 
+   <meta property='og:description' content='Learn how geo-targeted ads can help local businesses attract nearby customers, increase foot traffic, and boost sales effectively.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/boost-local-business-with-geo-targeted-ads.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/boost-local-business-with-geo-targeted-ads.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

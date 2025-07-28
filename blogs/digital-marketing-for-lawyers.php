@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Digital Marketing for Lawyers and Law Firms | VSN Networks</title>
     <meta name="description" content="Discover how digital marketing helps lawyers and law firms attract more clients, build authority, and grow their practice in 2025.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-lawyers.php" />
+
+   <meta property='og:title' content='Digital Marketing for Lawyers and Law Firms | VSN Networks'> 
+   <meta property='og:description' content='Discover how digital marketing helps lawyers and law firms attract more clients, build authority, and grow their practice in 2025.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/digital-marketing-for-lawyers.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/digital-marketing-for-lawyers.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

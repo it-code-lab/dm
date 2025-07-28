@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Using Marketing Funnels to Automate Your Sales Process | VSN Networks</title>
   <meta name="description" content="Learn how marketing funnels can help automate your sales process, nurture leads, and increase conversions on autopilot.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/marketing-funnels-automate-sales.php" />
+
+   <meta property='og:title' content='Using Marketing Funnels to Automate Your Sales Process | VSN Networks'> 
+   <meta property='og:description' content='Learn how marketing funnels can help automate your sales process, nurture leads, and increase conversions on autopilot.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/marketing-funnels-automate-sales.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/marketing-funnels-automate-sales.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

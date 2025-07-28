@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Local SEO: How to Get Found in Your Area | VSN Networks</title>
     <meta name="description" content="Learn how to boost your local visibility with proven Local SEO strategies. Get found by customers in your area.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/local-seo-how-to-get-found-in-your-area.php" />
+
+   <meta property='og:title' content='Local SEO: How to Get Found in Your Area | VSN Networks'> 
+   <meta property='og:description' content='Learn how to boost your local visibility with proven Local SEO strategies. Get found by customers in your area.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/local-seo-how-to-get-found-in-your-area.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/local-seo-how-to-get-found-in-your-area.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

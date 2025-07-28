@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Email Marketing That Converts: Best Practices for Beginners | VSN Networks</title>
     <meta name="description" content="Get started with email marketing that drives real results. Discover beginner-friendly best practices to increase opens, clicks, and sales.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/email-marketing-best-practices-for-beginners.php" />
+
+   <meta property='og:title' content='Email Marketing That Converts: Best Practices for Beginners | VSN Networks'> 
+   <meta property='og:description' content='Get started with email marketing that drives real results. Discover beginner-friendly best practices to increase opens, clicks, and sales.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/email-marketing-best-practices-for-beginners.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/email-marketing-best-practices-for-beginners.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

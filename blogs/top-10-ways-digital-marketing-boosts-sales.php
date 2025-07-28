@@ -9,6 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Top 10 Ways Digital Marketing Boosts Your Sales | VSN Networks</title>
     <meta name="description" content="Discover the top 10 ways digital marketing helps businesses increase their sales through SEO, ads, content, email, social media, and more.">
+
+    <meta property='og:title' content='Top 10 Ways Digital Marketing Boosts Your Sales | VSN Networks'> 
+   <meta property='og:description' content='Discover the top 10 ways digital marketing helps businesses increase their sales through SEO, ads, content, email, social media, and more.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/top-10-ways-digital-marketing-boosts-sales.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/top-10-ways-digital-marketing-boosts-sales.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

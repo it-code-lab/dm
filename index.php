@@ -3,6 +3,13 @@
 <head>
   <title>Home | VSN Networks</title>  
   <?php include 'includes/head-main.html'; ?>
+  <meta name='description' content='Grow Your Business with Smart Digital Marketing'> 
+   <meta property='og:title' content='Home | VSN Networks'> 
+   <meta property='og:description' content='Grow Your Business with Smart Digital Marketing'>
+   <meta property='og:url' content='vsnnetworks.com/index.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/index.php'>
+
 </head>
 <body>
 

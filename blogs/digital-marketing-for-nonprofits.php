@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Digital Marketing Tips for Nonprofits and NGOs | VSN Networks</title>
   <meta name="description" content="Discover the most effective digital marketing strategies for nonprofits and NGOs to raise awareness, drive donations, and grow impact online.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-nonprofits.php" />
+
+   <meta property='og:title' content='Digital Marketing Tips for Nonprofits and NGOs | VSN Networks'> 
+   <meta property='og:description' content='Discover the most effective digital marketing strategies for nonprofits and NGOs to raise awareness, drive donations, and grow impact online.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/digital-marketing-for-nonprofits.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/digital-marketing-for-nonprofits.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

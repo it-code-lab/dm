@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Digital Marketing for Event Planners and Agencies | VSN Networks</title>
   <meta name="description" content="Discover how event planners and agencies can use digital marketing to attract clients, increase bookings, and build a thriving brand presence.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-event-planners.php" />
+
+   <meta property='og:title' content='Digital Marketing for Event Planners and Agencies | VSN Networks'> 
+   <meta property='og:description' content='Discover how event planners and agencies can use digital marketing to attract clients, increase bookings, and build a thriving brand presence.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/digital-marketing-for-event-planners.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/digital-marketing-for-event-planners.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

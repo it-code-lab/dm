@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Social Media Strategies That Actually Work for Small Businesses | VSN Networks</title>
     <meta name="description" content="Discover proven social media strategies tailored for small businesses. Drive engagement, leads, and sales with actionable tips that actually work.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/social-media-strategies-small-business.php" />
+
+   <meta property='og:title' content='Social Media Strategies That Actually Work for Small Businesses | VSN Networks'> 
+   <meta property='og:description' content='Discover proven social media strategies tailored for small businesses. Drive engagement, leads, and sales with actionable tips that actually work.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/social-media-strategies-small-business.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/social-media-strategies-small-business.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

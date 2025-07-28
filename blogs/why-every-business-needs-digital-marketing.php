@@ -9,6 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Why Every Business Needs Digital Marketing in 2025 | VSN Networks</title>
     <meta name="description" content="Discover why digital marketing is essential for every business in 2025 and how VSN Networks helps you grow through SEO, social media, ads, and more.">
+
+    <meta property='og:title' content='Why Every Business Needs Digital Marketing in 2025 | VSN Networks'> 
+   <meta property='og:description' content='Discover why digital marketing is essential for every business in 2025 and how VSN Networks helps you grow through SEO, social media, ads, and more.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/why-every-business-needs-digital-marketing.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/why-every-business-needs-digital-marketing.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

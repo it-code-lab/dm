@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Why Your Business Needs a Blog: Benefits of Content Marketing | VSN Networks</title>
   <meta name="description" content="Discover how blogging helps boost SEO, build authority, and attract customers. Learn the top benefits of content marketing for businesses in 2025.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/why-your-business-needs-a-blog.php" />
+
+   <meta property='og:title' content='Why Your Business Needs a Blog: Benefits of Content Marketing | VSN Networks'> 
+   <meta property='og:description' content='Discover how blogging helps boost SEO, build authority, and attract customers. Learn the top benefits of content marketing for businesses in 2025.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/why-your-business-needs-a-blog.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/why-your-business-needs-a-blog.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

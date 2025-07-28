@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Digital Marketing Strategies for eCommerce Brands | VSN Networks</title>
   <meta name="description" content="Explore powerful digital marketing strategies to grow your online store, boost traffic, and increase eCommerce sales with VSN Networks.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/digital-marketing-for-ecommerce.php" />
+
+   <meta property='og:title' content='Digital Marketing Strategies for eCommerce Brands | VSN Networks'> 
+   <meta property='og:description' content='Explore powerful digital marketing strategies to grow your online store, boost traffic, and increase eCommerce sales with VSN Networks.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/digital-marketing-for-ecommerce.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/digital-marketing-for-ecommerce.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {

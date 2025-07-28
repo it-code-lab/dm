@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Services | VSN Networks</title>
+  <title>Pricing | VSN Networks</title>
   <?php include 'includes/head-main.html'; ?>
+  <meta name='description' content='Check out different plans for digital marketing and their pricing'> 
+   <meta property='og:title' content='Pricing | VSN Networks'> 
+   <meta property='og:description' content='Check out different plans for digital marketing and their pricing'>
+   <meta property='og:url' content='vsnnetworks.com/pricing.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/pricing.php'>
+
 </head>
 <body>
 

@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Content Marketing Tips to Build Trust with Your Audience | VSN Networks</title>
     <meta name="description" content="Learn powerful content marketing tips to build trust, engage your audience, and grow your business authentically.">
-    <link rel="canonical" href="https://yourdomain.com/blogs/content-marketing-tips-to-build-trust.php" />
+
+   <meta property='og:title' content='Content Marketing Tips to Build Trust with Your Audience | VSN Networks'> 
+   <meta property='og:description' content='Learn powerful content marketing tips to build trust, engage your audience, and grow your business authentically.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/content-marketing-tips-to-build-trust.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/content-marketing-tips-to-build-trust.php'>
+
+
     <?php include '../includes/head-main-blog.html'; ?>
     <style>
         body {

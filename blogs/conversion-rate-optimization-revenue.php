@@ -9,7 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>How Conversion Rate Optimization Can Increase Your Revenue | VSN Networks</title>
   <meta name="description" content="Learn how CRO (Conversion Rate Optimization) improves your website’s performance, increases sales, and maximizes ROI without increasing ad spend.">
-  <link rel="canonical" href="https://yourdomain.com/blogs/conversion-rate-optimization-revenue.php" />
+
+   <meta property='og:title' content='How Conversion Rate Optimization Can Increase Your Revenue | VSN Networks'> 
+   <meta property='og:description' content='Learn how CRO (Conversion Rate Optimization) improves your websiteâ€™s performance, increases sales, and maximizes ROI without increasing ad spend.'>
+   <meta property='og:url' content='vsnnetworks.com/blogs/conversion-rate-optimization-revenue.php'>
+   <meta name='author' content='VSN Networks'>
+   <link rel='canonical' href='https://vsnnetworks.com/blogs/conversion-rate-optimization-revenue.php'>
+
+
   <?php include '../includes/head-main-blog.html'; ?>
   <style>
     body {
