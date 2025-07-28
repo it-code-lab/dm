@@ -22,9 +22,10 @@
 
     <label>Service Interested In:</label><br>
     <select name="service_interest">
-      <option value="Starter Plan">Starter Plan</option>
-      <option value="Growth Plan">Growth Plan</option>
+      <option value="Basic Plan">Basic Plan</option>
+      <option value="Advanced Plan">Advanced Plan</option>
       <option value="Pro Plan">Pro Plan</option>
+      <option value="Custom Plan">Custom Plan</option>
     </select><br><br>
 
     <label>Message:</label><br>
