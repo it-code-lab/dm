@@ -1,6 +1,6 @@
 <?php
 // login.php
-session_start();
+// session_start();
 require_once 'includes/db.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -26,9 +26,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if ($user['role'] === 'admin') {
                 $_SESSION['is_admin'] = true;
             }
-            $redirect = isset($_GET['redirect']) ? $_GET['redirect'] : 'dashboard.php';
-            header("Location: $redirect");
-            exit();
+            // $redirect = isset($_GET['redirect']) ? $_GET['redirect'] : 'dashboard.php';
+            // header("Location: $redirect");
+            //exit();
         } else {
             //$error = "loginerror";
             header("Location: login.php?error=loginerror");
@@ -43,10 +43,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!DOCTYPE html>
 <html><head>
   <?php include 'includes/head-main.html'; ?>    
-<title>Login</title></head>
+<title>Login</title>
+</head>
 
 <body>
-    <?php include 'includes/header.php'; ?>
     <div class="medium-container">
 <h2>Login</h2>
 <?php if (isset($_GET['error']) && $_GET['error'] === 'unverified'): ?>
@@ -79,5 +79,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </div>
 <!--  include ?includes/footer.php?;-->
 
-<?php include 'includes/footer.php'; ?>
+
 </body></html>

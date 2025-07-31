@@ -1,7 +1,8 @@
 <?php
+session_start();
 $blogDir = __DIR__ . '/blogs';
 //$blogUrlBase = '/blogs'; // Adjust if your blogs folder is elsewhere
-$blogUrlBase = '/digitalmarketing/blogs'; // Adjust if your blogs folder is elsewhere
+$blogUrlBase = '/vsnnetworks/blogs'; // Adjust if your blogs folder is elsewhere
 
 $blogFiles = glob($blogDir . '/*.php');
 $blogFiles = array_merge($blogFiles, glob($blogDir . '/*.html'));

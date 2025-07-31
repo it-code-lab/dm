@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,7 +46,7 @@
           <li>Email support for basic queries</li>          
         </ul>
       </details>
-      <a href="contact.php?service=basic" class="btn-secondary">Select Plan</a>
+      <a href="purchase.php?plan=basic" class="btn-secondary">Select Plan</a>
     </div>
 
     <!-- Advanced Plan -->
@@ -68,7 +71,7 @@
           <li>Local SEO</li>
         </ul>
       </details>
-      <a href="contact.php?service=advanced" class="btn-secondary">Select Plan</a>
+      <a href="purchase.php?plan=advanced" class="btn-secondary">Select Plan</a>
     </div>
 
     <!-- Pro Plan -->
@@ -92,7 +95,7 @@
           <li>Monthly Reporting Dashboard</li>
         </ul>
       </details>
-      <a href="contact.php?service=pro" class="btn-secondary">Select Plan</a>
+      <a href="purchase.php?plan=pro" class="btn-secondary">Select Plan</a>
     </div>
 
     <!-- Custom Plan -->
@@ -116,7 +119,7 @@
           <li>Ongoing A/B testing and CRO advisory</li>
         </ul>
       </details>
-      <a href="contact.php?service=custom" class="btn-secondary">Request a Quote</a>
+      <a href="purchase.php?plan=custom" class="btn-secondary">Request a Quote</a>
     </div>
 
 </section>

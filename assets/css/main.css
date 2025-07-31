@@ -246,7 +246,7 @@ section {
   flex-wrap: wrap;
   margin-top: 40px;
   max-width: 1000px;
-  
+
 }
 
 .pricing-card {
@@ -610,9 +610,10 @@ section {
   padding: 100px 100px;
   text-align: center;
   margin: auto;
-  box-shadow: 0 12px 30px rgba(0,0,0,0.05);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.05);
   position: relative;
-  z-index: 1; /* keeps text above floating dots */
+  z-index: 1;
+  /* keeps text above floating dots */
 }
 
 .hero-overlay h2 {
@@ -629,9 +630,17 @@ section {
 }
 
 @keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.05);
+  }
+
+  100% {
+    transform: scale(1);
+  }
 }
 
 .pulse-button {
@@ -647,7 +656,7 @@ section {
   font-style: italic;
 }
 
-.contactus{
+.contactus {
   max-width: 600px;
   margin: auto;
   padding: 20px;
@@ -698,4 +707,182 @@ section {
   height: 40px;
   vertical-align: middle;
   margin-right: 10px;
+}
+
+.medium-container {
+  width: 80%;
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+}
+
+.medium-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.medium-container label {
+  display: block;
+  margin-top: 15px;
+  color: #444;
+  font-weight: 500;
+}
+
+.medium-container input[type="email"],
+.medium-container input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.medium-container input[type="submit"],
+.medium-container button[type="submit"] {
+  margin-top: 20px;
+  width: 100%;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.medium-container input[type="submit"]:hover,
+.medium-container button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+.medium-container p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.medium-container p a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.medium-container p a:hover {
+  text-decoration: underline;
+}
+
+.medium-container .error {
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.dashboard-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-toggle {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  min-width: 160px;
+}
+
+.dropdown-menu a {
+  color: white;
+  padding: 10px 15px;
+  display: block;
+  text-decoration: none;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.alert {
+  padding: 15px;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 25px;
+  text-align: center;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.alert-success {
+  background-color: #e6ffed;
+  color: #218838;
+  border: 1px solid #b8f1c2;
+}
+
+.alert-error {
+  background-color: #ffe6e6;
+  color: #c82333;
+  border: 1px solid #f5c6cb;
+}
+
+
+.order-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.order-table th,
+.order-table td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.order-table th {
+  background-color: #1e3a8a;
+  color: white;
+}
+
+.order-table tr:hover {
+  background-color: #f1f5f9;
+}
+
+.action-btn {
+  padding: 6px 12px;
+  background: #1e40af;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+.action-btn:hover {
+  background: #1e3a8a;
+  cursor: pointer;
 }

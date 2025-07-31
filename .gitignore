@@ -3,3 +3,18 @@
 *.gif
 *.svg
 sitemap.xml
+stripe-webhook.php
+sql/init_db.sql
+.env
+vendor/
+db.php
+composer.json
+composer.lock
+auth.php
+admin/orders_not_in_use.php
+thankyoufororder_not_in_use.php
+admin/order-detail copy.php
+ajax_not_in_use/
+admin/
+dashboard-not-in-use/
+uploads/

@@ -3,10 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Thank You</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/animations.css">
+  <?php include 'includes/head-main.html'; ?>
   <style>
     .thank-you-box {
       max-width: 500px;
@@ -46,6 +43,7 @@
   </style>
 </head>
 <body>
+  <?php include 'includes/header.php'; ?>
   <div class="thank-you-box fade-in">
     <h2>Thank You!</h2>
     <p>Your message has been received. We'll get back to you shortly.</p>
