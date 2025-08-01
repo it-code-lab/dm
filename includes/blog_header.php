@@ -32,7 +32,7 @@
             <a href="#" class="dropdown-toggle">Admin ▾</a>
             <div class="dropdown-menu">
               <a href="../admin/index.php">Dashboard</a>
-              <a href="../admin/create-order.php">Create Order</a>
+              <!-- <a href="../admin/create-order.php">Create Order</a> -->
               <!-- <a href="../admin/orders.php">All Orders</a> -->
             </div>
           </div>
