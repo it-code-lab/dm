@@ -41,11 +41,12 @@ if ($result) {
 
             .order-table td:nth-of-type(1):before { content: "Order ID"; }
             .order-table td:nth-of-type(2):before { content: "Plan"; }
-            .order-table td:nth-of-type(3):before { content: "Total"; }
-            .order-table td:nth-of-type(4):before { content: "Status"; }
-            .order-table td:nth-of-type(5):before { content: "Created At"; }
-            .order-table td:nth-of-type(6):before { content: "Services"; }
-            .order-table td:nth-of-type(7):before { content: "Uploads"; }
+            .order-table td:nth-of-type(3):before { content: "Duration"; }
+            .order-table td:nth-of-type(4):before { content: "Total"; }
+            .order-table td:nth-of-type(5):before { content: "Status"; }
+            .order-table td:nth-of-type(6):before { content: "Created At"; }
+            .order-table td:nth-of-type(7):before { content: "Services"; }
+            .order-table td:nth-of-type(8):before { content: "Uploads"; }
             }            
         </style>
     </head>
@@ -60,6 +61,7 @@ if ($result) {
             <tr>
                 <th>Order ID</th>
                 <th>Plan</th>
+                <th>Duration</th>
                 <th>Total</th>
                 <th>Status</th>
                 <th>Created At</th>
@@ -70,6 +72,7 @@ if ($result) {
                     <tr>
                         <td>#<?= $order['id'] ?></td>
                         <td><?= ucfirst($order['plan']) ?></td>
+                        <td><?= $order['duration'] ?></td>
                         <td>$<?= number_format($order['total_price'], 2) ?></td>
                         <td><?= ucfirst($order['status']) ?></td>
                         <td><?= $order['created_at'] ?></td>

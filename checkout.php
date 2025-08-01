@@ -65,15 +65,24 @@ $service_keys = [
 ];
 
 foreach ($service_keys as $key) {
-    if (isset($_POST[$key]) && !empty($_POST[$key])) {
+    if (isset($_POST[$key]) ) {
         $detailed_service_info[$key] = $_POST[$key];
     }
 }
+
+// foreach ($service_keys as $key) {
+//     if (isset($_POST[$key]) && !empty($_POST[$key])) {
+//         $detailed_service_info[$key] = $_POST[$key];
+//     }
+// }
+
 $detailed_service_info_json = json_encode($detailed_service_info);
 
-$stmt = $conn->prepare("INSERT INTO orders (user_id, name, email, plan, status, total_price, notes, primary_goals, competitors, detailed_service_info) VALUES (?, ?, ?, ?, 'initiated', ?, ?, ?, ?, ?)");
+$duration = $duration . " months"; // Append " months" to the duration for clarity
+
+$stmt = $conn->prepare("INSERT INTO orders (user_id, name, email, plan, duration, status, total_price, notes, primary_goals, competitors, detailed_service_info) VALUES (?, ?, ?, ?, ?, 'initiated', ?, ?, ?, ?, ?)");
 $notes = $business_info ? "$business_info" : '';
-$stmt->bind_param("isssdssss", $user_id, $name, $email, $plan,  $total_price, $notes, $primary_goals, $competitors, $detailed_service_info_json);
+$stmt->bind_param("issssdssss", $user_id, $name, $email, $plan, $duration,  $total_price, $notes, $primary_goals, $competitors, $detailed_service_info_json);
 $stmt->execute();
 $order_id = $stmt->insert_id;
 $stmt->close();
@@ -108,8 +117,9 @@ foreach ($services_selected as $service_key) {
         $service_name = $service_key;
     }
 
+
     // Prepare the SQL statement
-    $stmt = $conn->prepare("INSERT INTO order_items (order_id, service_name, quantity, unit_price) VALUES (?, ?, 1, 0)");
+    $stmt = $conn->prepare("INSERT INTO order_items (order_id, service_name,  quantity, unit_price) VALUES (?, ?, 1, 0)");
     
     // Bind the parameters
     $stmt->bind_param("is", $order_id, $service_name);
