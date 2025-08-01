@@ -10,8 +10,8 @@ requireLogin();
 $user_id = $_SESSION['user_id'];
 $name = $_SESSION['user_name'];
 
-$stmt = $conn->prepare("SELECT * FROM orders WHERE user_id = ? and status <> 'initiated' ORDER BY created_at DESC");
-$stmt->execute([$user_id]);
+$stmt = $conn->prepare("SELECT * FROM orders WHERE (user_id = ? or email = ?) and status <> 'initiated' ORDER BY created_at DESC");
+$stmt->execute([$user_id, $_SESSION['user_email']]);
 $orders = [];
 $result = $stmt->get_result();
 if ($result) {

@@ -14,7 +14,7 @@ $dotenv->load();
 
 $name = trim($_POST['name']) ?? '';
 $email = trim($_POST['email']) ?? '';
-$plan = $_POST['plan'] ?? '';
+$plan = $_SESSION['plan'] ?? '';
 $business_info = $_POST['business_info'] ?? '';
 $primary_goals = $_POST['primary_goals'] ?? '';
 $competitors = $_POST['competitors'] ?? '';
@@ -73,25 +73,99 @@ $detailed_service_info_json = json_encode($detailed_service_info);
 
 $stmt = $conn->prepare("INSERT INTO orders (user_id, name, email, plan, status, total_price, notes, primary_goals, competitors, detailed_service_info) VALUES (?, ?, ?, ?, 'initiated', ?, ?, ?, ?, ?)");
 $notes = $business_info ? "$business_info" : '';
-$stmt->bind_param("issdsssss", $user_id, $name, $email, $plan,  $total_price, $notes, $primary_goals, $competitors, $detailed_service_info_json);
+$stmt->bind_param("isssdssss", $user_id, $name, $email, $plan,  $total_price, $notes, $primary_goals, $competitors, $detailed_service_info_json);
 $stmt->execute();
 $order_id = $stmt->insert_id;
 $stmt->close();
 
-foreach ($services_selected as $service) {
+$all_services = [
+    'onpage_seo' => 'On-Page SEO',
+    'meta_ads' => 'PPC (Pay-Per-Click) Advertising (Ads)',
+    'gmb' => 'Google My Business (Local SEO)',
+    'technical_seo' => 'Technical SEO',
+    'content_marketing' => 'Content Marketing',
+    'social_media' => 'Social Media Marketing',
+    'email_marketing' => 'Email Marketing'
+];
+
+
+
+// foreach ($services_selected as $service) {
+//     $stmt = $conn->prepare("INSERT INTO order_items (order_id, service_name, quantity, unit_price) VALUES (?, ?, 1, 0)");
+//     $stmt->bind_param("is", $order_id, $service);
+//     $stmt->execute();
+//     $stmt->close();
+// }
+
+foreach ($services_selected as $service_key) {
+    // Check if the key exists in the $all_services array
+    if (array_key_exists($service_key, $all_services)) {
+        // If the key exists, get the full service name
+        $service_name = $all_services[$service_key];
+    } else {
+        // If the key does not exist, use the key itself as the service name
+        // You could also add logging here to alert you to an unknown service key
+        $service_name = $service_key;
+    }
+
+    // Prepare the SQL statement
     $stmt = $conn->prepare("INSERT INTO order_items (order_id, service_name, quantity, unit_price) VALUES (?, ?, 1, 0)");
-    $stmt->bind_param("is", $order_id, $service);
+    
+    // Bind the parameters
+    $stmt->bind_param("is", $order_id, $service_name);
+    
+    // Execute the statement
     $stmt->execute();
+    
+    // Close the statement
     $stmt->close();
 }
 
-foreach ($addons as $addon) {
-    $price = $addon_prices[$addon];
+// Your existing array for addons
+$all_addons = [
+    'website_development' => 'Website Development (Simple landing page)',
+    'website_redesign' => 'Website Development (Website Redesign)'
+];
+
+// Loop through the selected addons
+foreach ($addons as $addon_key) {
+    // Check if the key exists in the $all_addons array
+    if (array_key_exists($addon_key, $all_addons)) {
+        // If the key exists, use the friendly name from the mapping
+        $addon_name = $all_addons[$addon_key];
+    } else {
+        // If the key does not exist, use the key itself as the addon name
+        $addon_name = $addon_key;
+    }
+    
+    // Assuming $addon_prices is a separate array mapping keys to prices
+    $price = $addon_prices[$addon_key];
+    
+    // Prepare the SQL statement
     $stmt = $conn->prepare("INSERT INTO order_items (order_id, service_name, quantity, unit_price) VALUES (?, ?, 1, ?)");
-    $stmt->bind_param("isd", $order_id, $addon, $price);
+    
+    // Bind the parameters: order_id, the (now resolved) addon name, and the price
+    $stmt->bind_param("isd", $order_id, $addon_name, $price);
+    
+    // Execute the statement
     $stmt->execute();
+    
+    // Close the statement
     $stmt->close();
 }
+
+// $all_addons = [
+//     'website_development' => 'Website Development (Simple landing page)',
+//     'website_redesign' => 'Website Development (Website Redesign)'
+// ];
+
+// foreach ($addons as $addon) {
+//     $price = $addon_prices[$addon];
+//     $stmt = $conn->prepare("INSERT INTO order_items (order_id, service_name, quantity, unit_price) VALUES (?, ?, 1, ?)");
+//     $stmt->bind_param("isd", $order_id, $addon, $price);
+//     $stmt->execute();
+//     $stmt->close();
+// }
 
 $upload_dir = 'uploads/';
 foreach ($_FILES['assets']['tmp_name'] as $key => $tmp_name) {

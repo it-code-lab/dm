@@ -5,6 +5,7 @@ require_once 'includes/db.php';
 require_once 'includes/auth.php';
 
 $plan = isset($_GET['plan']) ? strtolower(trim($_GET['plan'])) : '';
+$_SESSION['plan'] = $plan;
 $valid_plans = ['basic', 'advanced', 'pro', 'custom'];
 
 if (!in_array($plan, $valid_plans)) {
@@ -264,7 +265,7 @@ unset($_SESSION['form_data']); // clear after use
             <option value="12">12 Months (20% Discount)</option>
         </select>
 
-        <button type="submit">Proceed to Payment</button>
+        <button type="submit" id="proceedToPaymentBtn">Proceed to Payment</button>
 
 
     </form>
@@ -321,6 +322,28 @@ function toggleHelp(id) {
         helpText.style.display = "none";
     }
 }
+</script>
+<script>
+    // Get the form and button elements
+    const purchaseForm = document.getElementById('purchaseForm');
+    const proceedBtn = document.getElementById('proceedToPaymentBtn');
+
+    // Add a submit event listener to the form
+    purchaseForm.addEventListener('submit', function(event) {
+        // Disable the button and change its text
+        proceedBtn.disabled = true;
+        proceedBtn.textContent = 'Processing...';
+    });
+
+    // To handle the back button issue, re-enable the button when the page loads.
+    // This is especially useful for browsers that cache the page state.
+    window.addEventListener('pageshow', function(event) {
+        // Check if the page was loaded from the cache
+        if (event.persisted) {
+            proceedBtn.disabled = false;
+            proceedBtn.textContent = 'Proceed to Payment';
+        }
+    });
 </script>
 </body>
 </html>
