@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <?php include 'includes/head-main.html'; ?>
   <title>Book Appointment | VSN Networks</title>
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <meta name='description' content='Book an appointment for consultation'> 
+
+   <meta name='description' content='Book an appointment for consultation'> 
    <meta property='og:title' content='Book Appointment | VSN Networks'> 
    <meta property='og:description' content='Book an appointment for consultation'>
    <meta property='og:url' content='vsnnetworks.com/book-appointment.php'>
