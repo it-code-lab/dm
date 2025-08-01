@@ -15,6 +15,13 @@ function requireAdmin() {
     }
 }
 
+function requireAdminAndLoginFromParent() {
+    if (!isset($_SESSION['is_admin']) || !$_SESSION['is_admin']) {
+        header('Location: ../login.php');
+        exit;
+    }
+}
+
 function isAdmin()
 {
     // Example: check if the logged-in user has admin role
