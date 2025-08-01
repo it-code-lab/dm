@@ -3,7 +3,6 @@ require 'vendor/autoload.php';
 require_once 'includes/auth.php';
 require_once 'includes/db.php';
 
-requireLogin();
 
 $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
 $dotenv->load();

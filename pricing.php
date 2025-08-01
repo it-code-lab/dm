@@ -36,14 +36,14 @@ session_start();
         <li>10 Social Posts (FB/IG)/Month</li>
         <li>Basic On-Page SEO (Homepage)</li>
         <li>4 Meta Ad Campaigns/Month</li>
-        <li>Monthly Summary Report</li>
+        <li>Basic Website Audit</li>
       </ul>
       <details>
         <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
           <li>2 Instagram Reels/Month</li>
-          <li>Analytics Setup (GA4 & Tag Manager)</li>
-          <li>Email support for basic queries</li>          
+          <li>Email support for basic queries</li>  
+          <li>Local SEO</li>        
         </ul>
       </details>
       <a href="purchase.php?plan=basic" class="btn-secondary">Select Plan</a>
@@ -58,17 +58,16 @@ session_start();
         <li>15 Social Posts</li>
         <li>8 Meta Ad Campaigns/Month</li>
         <li>4 Instagram Reels/Month</li>
-        <li>Analytics Setup (GA4 & Tag Manager)</li>
+        <li>SMM Growth Strategy</li>
       </ul>
       <details>
         <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
           <li>4 Google Ad Campaigns/Month</li>
-          <li>SMM Growth Strategy</li>
           <li>Email Marketing</li>
-          <li>Website Design</li>
-          <li>Analytics Setup (GA4 & Tag Manager)</li>
+          <li>On-Page SEO</li>
           <li>Local SEO</li>
+          <li>Technical SEO</li>
         </ul>
       </details>
       <a href="purchase.php?plan=advanced" class="btn-secondary">Select Plan</a>
@@ -83,15 +82,13 @@ session_start();
         <li>20 Social Posts (Meta/Google)</li>
         <li>20 Meta Ad Campaigns/Month</li>
         <li>Advanced SEO</li>
-        <li>Website Design</li>
+        <li>Website Audit</li>
       </ul>
       <details>
         <summary style="cursor:pointer;color:#007BFF;">View more</summary>
         <ul>
           <li>10 Google Ad Campaigns/Month</li>
           <li>8 Instagram Reels/Month</li>
-          <li>Website Optimization</li>
-          <li>Analytics Setup (GA4 & Tag Manager)</li>
           <li>Monthly Reporting Dashboard</li>
         </ul>
       </details>
@@ -119,7 +116,7 @@ session_start();
           <li>Ongoing A/B testing and CRO advisory</li>
         </ul>
       </details>
-      <a href="purchase.php?plan=custom" class="btn-secondary">Request a Quote</a>
+      <a href="book-appointment.php" class="btn-secondary">Book Consultation</a>
     </div>
 
 </section>
@@ -143,74 +140,78 @@ session_start();
       <td data-label="Service">SEO: Basic On-Page Optimization</td>
       <td data-label="Basic">✔️</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
+
     <tr>
-      <td data-label="Service">SEO: Technical SEO + Schema</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$99/month</td>
+      <td data-label="Service">SEO: Local SEO (Google My Business)</td>
+      <td data-label="Basic">✔️</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
+
     <tr>
-      <td data-label="Service">SEO: Local SEO (Google Business, Citations)</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$99/month</td>
+      <td data-label="Service">SEO: Technical SEO </td>
+      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
+
 
     <!-- Ads -->
     <tr>
       <td data-label="Service">Google Ads (Campaign Setup)</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">4</td><td data-label="Pro">10</td><td data-label="Add-On Price (USD)">$50/additional campaign</td>
+      <td data-label="Basic">-</td><td data-label="Advanced">4</td><td data-label="Pro">10</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
     <tr>
       <td data-label="Service">Meta Ads (Instagram/Facebook/LinkedIn)</td>
-      <td data-label="Basic">4</td><td data-label="Advanced">8</td><td data-label="Pro">20</td><td data-label="Add-On Price (USD)">$20/additional campaign</td>
+      <td data-label="Basic">4</td><td data-label="Advanced">8</td><td data-label="Pro">20</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
-    <tr>
-      <td data-label="Service">Landing Page Design(1 Page, CRO-Focused)</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">-</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$200/page</td>
-    </tr>
+
 
     <!-- SMM -->
     <tr>
-      <td data-label="Service">SMM: Content Calendar (Social Posts)</td>
-      <td data-label="Basic">10</td><td data-label="Advanced">15</td><td data-label="Pro">20</td><td data-label="Add-On Price (USD)">$60/10 posts</td>
+      <td data-label="Service">SMM: Social Posts</td>
+      <td data-label="Basic">10</td><td data-label="Advanced">15</td><td data-label="Pro">20</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
 
     <tr>
       <td data-label="Service">SMM: Instagram Reels</td>
-      <td data-label="Basic">2</td><td data-label="Advanced">4</td><td data-label="Pro">8</td><td data-label="Add-On Price (USD)">$10 /reel</td>
+      <td data-label="Basic">2</td><td data-label="Advanced">4</td><td data-label="Pro">8</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
 
     <tr>
       <td data-label="Service">SMM: Engagement & Growth Strategy</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$99/month</td>
+      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
 
-    <!-- Email & Funnels -->
+    <tr>
+      <td data-label="Service">Content Marketing</td>
+      <td data-label="Basic">-</td><td data-label="Advanced">-</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">-</td>
+    </tr>
+
+    <!-- Email -->
     <tr>
       <td data-label="Service">Email Marketing (Setup + 1 Drip Campaign)</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$150/setup</td>
+      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
-    <tr>
-      <td data-label="Service">Funnels: Basic Sales Funnel</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">-</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$250/funnel</td>
-    </tr>
+
 
     <!-- Web Design -->
     <tr>
-      <td data-label="Service">Website Design (5-page Responsive Site)</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">Starting at $499/project</td>
-    </tr>
-    <tr>
-      <td data-label="Service">Website Optimization (Speed, Mobile)</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">Starting at $99/project</td>
+      <td data-label="Service">Website Development (Simple landing page)</td>
+      <td data-label="Basic">-</td><td data-label="Advanced">-</td><td data-label="Pro">-</td><td data-label="Add-On Price (USD)">$500+</td>
     </tr>
 
-    <!-- Analytics -->
     <tr>
-      <td data-label="Service">Analytics Setup (GA4 & Tag Manager)</td>
-      <td data-label="Basic">✔️</td><td data-label="Advanced">✔️</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$99/setup</td>
+      <td data-label="Service">Website Development (Full Website Redesign)</td>
+      <td data-label="Basic">-</td><td data-label="Advanced">-</td><td data-label="Pro">-</td><td data-label="Add-On Price (USD)">$1000+</td>
     </tr>
+
     <tr>
-      <td data-label="Service">Monthly Reporting Dashboard</td>
-      <td data-label="Basic">-</td><td data-label="Advanced">-</td><td data-label="Pro">✔️</td><td data-label="Add-On Price (USD)">$99/month</td>
+      <td data-label="Service">Website Audit</td>
+      <td data-label="Basic">Basic</td><td data-label="Advanced">Full</td><td data-label="Pro">Full</td><td data-label="Add-On Price (USD)">-</td>
     </tr>
+
+    <tr>
+      <td data-label="Service">Custom Add-Ons</td>
+      <td data-label="Basic">-</td><td data-label="Advanced">-</td><td data-label="Pro">-</td><td data-label="Add-On Price (USD)">Let's Discuss</td>
+    </tr>
+
   </tbody>
 </table>
 </div>
