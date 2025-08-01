@@ -67,8 +67,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <div class="alert alert-success">
     ✅ Your email has been verified. Please log in.
 </div>
-
 <?php endif; ?>
+
+<?php if (isset($_GET['pwreset'])): ?>
+<div class="alert alert-success">
+    ✅ Your password has been reset successfully. Please log in.
+</div>
+<?php endif; ?>
+
 <form method="post">
     <label>Email:</label><input type="email" name="email" required><br>
     <label>Password:</label><input type="password" name="password" required><br>
