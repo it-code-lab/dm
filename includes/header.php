@@ -8,7 +8,7 @@
   <div class="container">
     <h1 class="logo">
       <a href="index.php" style="color: white; text-decoration: none;">
-        <img class="logoimage" src="assets/icons/logo.png" alt="">VSN Networks
+        <img class="logoimage" src="assets/icons/logo.png" alt="VSN Networks">
       </a>
     </h1>
 

@@ -1,5 +1,6 @@
 <?php
 require_once 'includes/db.php';
+require_once 'mailer.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name = $_POST['name'];
@@ -14,11 +15,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $stmt = $conn->prepare($sql);
     $stmt->bind_param("sssss", $name, $email, $phone, $message, $service);
 
-    $stmt->execute();
-
-    header("Location: thankyou.php");
+    if ($stmt->execute()) {
+        // Send email to admin
+        sendInquiryEmailToAdmin($name, $email, $phone, $message, $service);
+        header("Location: thankyou.php");
+        exit;
+    } else {
+        echo "Failed to process.";
+    }
     exit;
 } else {
-    echo "Invalid request.";
+    echo "Failed to process.";
 }
 

@@ -128,7 +128,7 @@ session_start();
       <div class="why-card fade-in">
         <img src="assets/icons/price-tag.svg" alt="Affordable">
         <h4>Affordable Packages</h4>
-        <p>Tailored plans starting at just ₹5,000/month — perfect for startups and small teams.</p>
+        <p>Tailored plans starting at just $300/month — perfect for startups and small teams.</p>
       </div>
       <div class="why-card fade-in">
         <img src="assets/icons/support.svg" alt="Dedicated Team">

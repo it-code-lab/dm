@@ -61,6 +61,73 @@ function sendPasswordResetEmail($email, $token, $first_name = "User") {
     return mail($email, $subject, $htmlMessage, $headers);
 }
 
+function sendInquiryEmailToAdmin($name, $email, $phone, $message, $service) {
+    $adminEmail = "mail2saurabhm@gmail.com";  // <-- Change this to your admin email
+    $subject = "New Contact Form Inquiry from $name";
+
+    $htmlMessage = "
+        <html>
+        <head>
+            <title>New Inquiry Received</title>
+        </head>
+        <body style='font-family: Arial, sans-serif; background-color: #f8f8f8; padding: 20px;'>
+            <div style='max-width: 600px; margin: auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);'>
+                <h2 style='color: #333;'>📩 New Inquiry Submitted</h2>
+                <p><strong>Name:</strong> {$name}</p>
+                <p><strong>Email:</strong> {$email}</p>
+                <p><strong>Phone:</strong> {$phone}</p>
+                <p><strong>Interested Service:</strong> {$service}</p>
+                <p><strong>Message:</strong><br>" . nl2br(htmlspecialchars($message)) . "</p>
+                <hr style='margin: 20px 0;'>
+                <p style='color: #888;'>This message was sent from the VSN-Networks contact form.</p>
+            </div>
+        </body>
+        </html>
+    ";
+
+    $headers = "From: VSN-Networks <no-reply@vsnnetworks.com>\r\n";
+    $headers .= "MIME-Version: 1.0\r\n";
+    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+
+    return mail($adminEmail, $subject, $htmlMessage, $headers);
+}
+
+function sendPaymentNotificationToAdmin($order_id) {
+    $adminEmail = "mail2saurabhm@gmail.com"; // Change as needed
+    $subject = "✅ New Order Paid - Order ID #$order_id";
+
+    $orderLink = "https://vsnnetworks.com/admin/order-detail.php?id=$order_id";
+
+    $htmlMessage = "
+        <html>
+        <head>
+            <title>New Paid Order Notification</title>
+        </head>
+        <body style='font-family: Arial, sans-serif; background-color: #f8f8f8; padding: 20px;'>
+            <div style='max-width: 600px; margin: auto; background: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);'>
+                <h2 style='color: #2e7d32;'>🎉 New Order Paid</h2>
+                <p><strong>Order ID:</strong> #$order_id</p>
+                <p><strong>Status:</strong> Paid</p>
+                <p>You can view full order details using the button below:</p>
+                <p>
+                    <a href='$orderLink' style='display:inline-block;background-color:#4CAF50;color:#fff;padding:12px 20px;text-decoration:none;border-radius:5px;'>View Order Details</a>
+                </p>
+                <p style='margin-top:20px;'>Or use this direct link:<br><a href='$orderLink'>$orderLink</a></p>
+                <hr style='margin: 30px 0;'>
+                <p style='color: #777;'>— VSN-Networks System Notification</p>
+            </div>
+        </body>
+        </html>
+    ";
+
+    $headers = "From: VSN-Networks <no-reply@vsnnetworks.com>\r\n";
+    $headers .= "MIME-Version: 1.0\r\n";
+    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+
+    return mail($adminEmail, $subject, $htmlMessage, $headers);
+}
+
+
 function sendContactEmail($to, $name, $email, $message) {
     $to = "mail2saurabhm@gmail.com";
     $subject = "Contact Form Submission from VSN-Networks";
