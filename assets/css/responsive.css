@@ -224,4 +224,11 @@
         white-space: nowrap;
         font-weight: bold;
     }
+
+    .videoIframeDiv {
+        width: 960px;
+        height: 540px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
 }

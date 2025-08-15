@@ -109,6 +109,9 @@
     <h1>SEO vs PPC – Which One Is Right for Your Business?</h1>
     <p class="subheading">Understand the strengths of SEO and PPC and discover which strategy suits your business goals best.</p>
 
+    <div class="videoIframeDiv">
+        <iframe src="https://www.youtube.com/embed/SHL_HFMsu-c"> </iframe>
+    </div>
     <img src="/img/blogs/seo-vs-ppc.jpg" alt="Split screen with SEO and PPC icons" class="featured-image">
     <!-- Image Suggestion: Split-screen illustration of SEO (organic search growth) vs PPC (paid ads dashboard) -->
 
@@ -138,7 +141,12 @@
 
     <h2>🚀 Let VSN Networks Help You Decide</h2>
     <p>At <strong>VSN Networks</strong>, we don’t just run campaigns — we craft digital marketing strategies that work for your unique business goals. Whether it’s SEO, PPC, or both, we’ve got you covered.</p>
-  </div>
+
+    <div class="videoIframeDiv">
+        <iframe src="https://www.youtube.com/embed/SHL_HFMsu-c"> </iframe>
+    </div>
+</div>
+
 
   <div class="cta-box">
     <h2>Need Help Choosing Between SEO and PPC?</h2>
